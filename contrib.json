@@ -1,0 +1,66 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "SublimeLinter-contrib-clang",
+            "previous_names": ["SublimeLinter-clang"],
+            "details": "https://github.com/nirm03/SublimeLinter-clang",
+            "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/nirm03/SublimeLinter-clang/tags"
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-java",
+            "previous_names": ["SublimeLinter-java"],
+            "details": "https://github.com/reekoheek/SublimeLinter-java",
+            "labels": ["linting", "SublimeLinter", "java"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/reekoheek/SublimeLinter-java/tags"
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-perl",
+            "previous_names": ["SublimeLinter-perl"],
+            "details": "https://github.com/oschwald/SublimeLinter-perl",
+            "labels": ["linting", "SublimeLinter", "perl"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/oschwald/SublimeLinter-perl/tags"
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-perlcritic",
+            "previous_names": ["SublimeLinter-perlcritic"],
+            "details": "https://github.com/oschwald/SublimeLinter-perlcritic",
+            "labels": ["linting", "SublimeLinter", "perl", "perlcritic"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/oschwald/SublimeLinter-perlcritic/tags"
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-scss-lint",
+            "previous_names": ["SublimeLinter-scss-lint"],
+            "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
+            "labels": ["linting", "SublimeLinter", "scss", "sass"],
+            "author": "Sergey Margaritov",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/attenzione/SublimeLinter-scss-lint/tags"
+                }
+            ]
+        }
+    ]
+}
