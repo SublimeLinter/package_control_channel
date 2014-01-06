@@ -193,6 +193,16 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-jsxhint",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-jsxhint/tags"
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-lua",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "lua"],
