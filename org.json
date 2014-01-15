@@ -63,6 +63,26 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-cppcheck",
+            "labels": ["linting", "SublimeLinter", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-cppcheck/tags"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-cpplint",
+            "labels": ["linting", "SublimeLinter", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-cpplint/tags"
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-csslint",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "css"],
@@ -291,6 +311,26 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pylint",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-pylint/tags"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pyyaml",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-pyyaml/tags"
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-rubocop",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "ruby"],
@@ -309,6 +349,16 @@
                 {
                     "sublime_text": ">=3000",
                     "details": "https://github.com/SublimeLinter/SublimeLinter-ruby/tags"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-shellcheck",
+            "labels": ["linting", "SublimeLinter", "bash"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-shellcheck/tags"
                 }
             ]
         },
