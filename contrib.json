@@ -14,6 +14,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-dxl",
+            "details": "https://github.com/Adarma/SublimeLinter-contrib-dxl",
+            "labels": ["linting", "SublimeLinter", "dxl"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/Adarma/SublimeLinter-contrib-dxl/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "previous_names": ["SublimeLinter-java"],
             "details": "https://github.com/reekoheek/SublimeLinter-java",
