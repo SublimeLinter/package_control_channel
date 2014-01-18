@@ -61,6 +61,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-puppet-lint",
+            "details": "https://github.com/stopdropandrew/SublimeLinter-puppet-lint",
+            "labels": ["linting", "SublimeLinter", "puppet"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/stopdropandrew/SublimeLinter-puppet-lint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scss-lint",
             "previous_names": ["SublimeLinter-scss-lint"],
             "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
