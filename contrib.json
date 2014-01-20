@@ -37,6 +37,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-mlint",
+            "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
+            "labels": ["linting", "SublimeLinter", "matlab"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-perl",
             "previous_names": ["SublimeLinter-perl"],
             "details": "https://github.com/oschwald/SublimeLinter-perl",
