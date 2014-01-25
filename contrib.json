@@ -25,6 +25,28 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-gotype",
+            "details": "https://github.com/SirReal/SublimeLinter-contrib-gotype",
+            "labels": ["linting", "SublimeLinter", "go"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SirReal/SublimeLinter-contrib-gotype/tags"
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-golint",
+            "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
+            "labels": ["linting", "SublimeLinter", "go"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SirReal/SublimeLinter-contrib-golint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "previous_names": ["SublimeLinter-java"],
             "details": "https://github.com/reekoheek/SublimeLinter-java",
