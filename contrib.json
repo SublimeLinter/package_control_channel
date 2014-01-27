@@ -25,6 +25,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-golint",
+            "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
+            "labels": ["linting", "SublimeLinter", "go"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SirReal/SublimeLinter-contrib-golint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-gotype",
             "details": "https://github.com/SirReal/SublimeLinter-contrib-gotype",
             "labels": ["linting", "SublimeLinter", "go"],
@@ -36,13 +47,13 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-golint",
-            "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
+            "name": "SublimeLinter-contrib-govet",
+            "details": "https://github.com/SirReal/SublimeLinter-contrib-govet",
             "labels": ["linting", "SublimeLinter", "go"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SirReal/SublimeLinter-contrib-golint/tags"
+                    "details": "https://github.com/SirReal/SublimeLinter-contrib-govet/tags"
                 }
             ]
         },
