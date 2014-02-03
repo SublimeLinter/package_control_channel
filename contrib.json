@@ -24,6 +24,17 @@
                 }
             ]
         },
+       {
+            "name": "SublimeLinter-contrib-frosted",
+            "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted/tags"
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-golint",
             "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
