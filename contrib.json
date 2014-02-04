@@ -81,6 +81,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-jslint",
+            "details": "https://github.com/devdoc/SublimeLinter-jslint",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/devdoc/SublimeLinter-jslint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mlint",
             "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
             "labels": ["linting", "SublimeLinter", "matlab"],
