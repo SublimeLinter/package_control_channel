@@ -11,7 +11,7 @@
             "releases": [
                 {
                     "sublime_text": "<3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter/tags"
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-for-ST2/tags"
                 },
                 {
                     "sublime_text": ">=3000",
