@@ -24,7 +24,18 @@
                 }
             ]
         },
-       {
+        {
+            "name": "SublimeLinter-contrib-eslint",
+            "details": "https://github.com/roadhump/SublimeLinter-eslint",
+            "labels": ["linting", "SublimeLinter", "eslint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/roadhump/SublimeLinter-eslint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-frosted",
             "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted",
             "labels": ["linting", "SublimeLinter", "python"],
