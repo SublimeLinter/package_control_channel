@@ -171,6 +171,17 @@
                     "details": "https://github.com/attenzione/SublimeLinter-scss-lint/tags"
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-contrib-tslint",
+            "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
+            "labels": ["linting", "SublimeLinter", "typescript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint/tags"
+                }
+            ]
         }
     ]
 }
