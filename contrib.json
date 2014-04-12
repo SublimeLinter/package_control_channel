@@ -160,6 +160,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-rustc",
+            "details": "https://github.com/oschwald/SublimeLinter-contrib-rustc",
+            "labels": ["linting", "SublimeLinter", "rust", "rustc"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/oschwald/SublimeLinter-contrib-rustc/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scss-lint",
             "previous_names": ["SublimeLinter-scss-lint"],
             "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
