@@ -4,7 +4,7 @@
         {
             "name": "SublimeLinter",
             "details": "https://github.com/SublimeLinter/SublimeLinter3",
-            "homepage": "http://sublimelinter.readthedocs.org",
+            "homepage": "http://sublimelinter.com",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter"],
             "previous_names": ["SublimeLinter Beta"],
