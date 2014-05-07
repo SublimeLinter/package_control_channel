@@ -2,6 +2,17 @@
     "schema_version": "2.0",
     "packages": [
         {
+            "name": "SublimeLinter-contrib-CFLint",
+            "details": "https://github.com/ckaznocha/SublimeLinter-contrib-CFLint",
+            "labels": ["linting", "SublimeLinter", "CFLint", "Cold Fusion"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/ckaznocha/SublimeLinter-contrib-CFLint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang",
             "previous_names": ["SublimeLinter-clang"],
             "details": "https://github.com/nirm03/SublimeLinter-clang",
