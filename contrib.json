@@ -136,6 +136,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-lua-globals",
+            "details": "https://github.com/Sinaloit/SublimeLinter-contrib-lua-globals",
+            "labels": ["linting", "SublimeLinter", "lua"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/Sinaloit/SublimeLinter-contrib-lua-globals/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mlint",
             "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
             "labels": ["linting", "SublimeLinter", "matlab"],
