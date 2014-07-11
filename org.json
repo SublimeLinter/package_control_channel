@@ -234,6 +234,17 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-luacheck",
+            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
+            "labels": ["linting", "SublimeLinter", "lua"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/SublimeLinter/SublimeLinter-luacheck/tags"
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-pep257",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "python"],
