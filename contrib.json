@@ -113,6 +113,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-haml-lint",
+            "details": "https://github.com/jeroenj/SublimeLinter-contrib-haml-lint",
+            "labels": ["linting", "SublimeLinter", "haml"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/jeroenj/SublimeLinter-contrib-haml-lint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "previous_names": ["SublimeLinter-java"],
             "details": "https://github.com/reekoheek/SublimeLinter-java",
