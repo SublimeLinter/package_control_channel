@@ -80,6 +80,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-elixirc",
+            "details": "https://github.com/doitian/SublimeLinter-contrib-elixirc",
+            "labels": ["linting", "SublimeLinter", "elixir", "erlang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/doitian/SublimeLinter-contrib-elixirc/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-frosted",
             "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted",
             "labels": ["linting", "SublimeLinter", "python"],
@@ -262,3 +273,4 @@
         }
     ]
 }
+
