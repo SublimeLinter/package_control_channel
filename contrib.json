@@ -135,6 +135,16 @@
             ]
         },
         {
++			"name": "SublimeLinter-contrib-jade",
++			"details": "https://github.com/zekesonxx/SublimeLinter-contrib-jade",
++			"releases": [
++				{
++					"sublime_text": "*",
++					"details": "https://github.com/zekesonxx/SublimeLinter-contrib-jade/tags"
++				}
++			]
++		},
+        {
             "name": "SublimeLinter-contrib-java",
             "previous_names": ["SublimeLinter-java"],
             "details": "https://github.com/reekoheek/SublimeLinter-java",
