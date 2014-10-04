@@ -135,6 +135,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-iverilog",
+            "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
+            "labels": ["linting", "SublimeLinter", "verilog"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "previous_names": ["SublimeLinter-java"],
             "details": "https://github.com/reekoheek/SublimeLinter-java",
