@@ -58,6 +58,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-elixirc",
+            "details": "https://github.com/doitian/SublimeLinter-contrib-elixirc",
+            "labels": ["linting", "SublimeLinter", "erlang", "elixir", "elixirc"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/doitian/SublimeLinter-contrib-elixirc/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-eslint",
             "details": "https://github.com/roadhump/SublimeLinter-eslint",
             "labels": ["linting", "SublimeLinter", "eslint"],
