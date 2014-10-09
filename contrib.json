@@ -191,6 +191,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-lslint",
+            "details": "https://github.com/Mediatek-Cloud/SublimeLinter-lslint",
+            "labels": ["lslint", "SublimeLinter", "livescript"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/Mediatek-Cloud/SublimeLinter-lslint/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mlint",
             "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
             "labels": ["linting", "SublimeLinter", "matlab"],
