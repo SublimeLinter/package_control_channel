@@ -191,13 +191,13 @@
             ]
         },
         {
-            "name": "SublimeLinter-lslint",
-            "details": "https://github.com/Mediatek-Cloud/SublimeLinter-lslint",
-            "labels": ["lslint", "SublimeLinter", "livescript"],
+            "name": "SublimeLinter-contrib-lslint",
+            "details": "https://github.com/Mediatek-Cloud/SublimeLinter-contrib-lslint",
+            "labels": ["lslint", "SublimeLinter", "livescript", "coding style"],
             "releases": [
                 {
                     "sublime_text": "*",
-                    "details": "https://github.com/Mediatek-Cloud/SublimeLinter-lslint/tags"
+                    "details": "https://github.com/Mediatek-Cloud/SublimeLinter-contrib-lslint/tags"
                 }
             ]
         },
