@@ -272,6 +272,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-spider",
+            "details": "https://github.com/zekesonxx/SublimeLinter-contrib-spider",
+            "labels": ["linting", "SublimeLinter", "spider", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/zekesonxx/SublimeLinter-contrib-spider/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-tslint",
             "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
