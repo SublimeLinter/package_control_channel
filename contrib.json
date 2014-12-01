@@ -292,6 +292,17 @@
                     "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint/tags"
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-contrib-write-good",
+            "details": "https://github.com/ckaznocha/SublimeLinter-contrib-write-good",
+            "labels": ["linting", "SublimeLinter"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/ckaznocha/SublimeLinter-contrib-write-good/tags"
+                }
+            ]
         }
     ]
 }
