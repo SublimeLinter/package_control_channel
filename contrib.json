@@ -47,6 +47,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-dennis",
+            "details": "https://github.com/NotSqrt/SublimeLinter-contrib-dennis",
+            "labels": ["linting", "SublimeLinter", "Gettext"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/NotSqrt/SublimeLinter-contrib-dennis/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dxl",
             "details": "https://github.com/Adarma/SublimeLinter-contrib-dxl",
             "labels": ["linting", "SublimeLinter", "dxl"],
