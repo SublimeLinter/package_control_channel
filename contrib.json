@@ -259,6 +259,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-raml-cop",
+            "details": "https://github.com/thebinarypenguin/SublimeLinter-contrib-raml-cop",
+            "labels": ["linting", "SublimeLinter", "raml"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/thebinarypenguin/SublimeLinter-contrib-raml-cop/tags"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-rustc",
             "details": "https://github.com/oschwald/SublimeLinter-contrib-rustc",
             "labels": ["linting", "SublimeLinter", "rust", "rustc"],
