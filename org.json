@@ -1,5 +1,5 @@
 {
-    "schema_version": "2.0",
+    "schema_version": "3.0.0",
     "packages": [
         {
             "name": "SublimeLinter",
@@ -10,13 +10,15 @@
             "previous_names": ["SublimeLinter Beta"],
             "releases": [
                 {
-                    "sublime_text": "<3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-for-ST2/tags"
+                    "sublime_text": ">=3000",
+                    "tags": true
                 },
                 {
-                    "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter3/tags"
+                    "sublime_text": "<3000",
+                    "base": "https://github.com/SublimeLinter/SublimeLinter-for-ST2",
+                    "tags": true
                 }
+
             ]
         },
         {
@@ -26,7 +28,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-annotations/tags"
+                    "tags": true
                 }
             ]
         },
@@ -36,7 +38,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-chktex/tags"
+                    "tags": true
                 }
             ]
         },
@@ -47,7 +49,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-coffee/tags"
+                    "tags": true
                 }
             ]
         },
@@ -58,7 +60,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-coffeelint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -68,7 +70,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-cppcheck/tags"
+                    "tags": true
                 }
             ]
         },
@@ -78,7 +80,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-cpplint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -89,7 +91,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-csslint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -100,7 +102,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-flake8/tags"
+                    "tags": true
                 }
             ]
         },
@@ -110,7 +112,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-flow/tags"
+                    "tags": true
                 }
             ]
         },
@@ -120,7 +122,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-ghc/tags"
+                    "tags": true
                 }
             ]
         },
@@ -131,7 +133,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-gjslint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -142,7 +144,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-haml/tags"
+                    "tags": true
                 }
             ]
         },
@@ -152,7 +154,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-hlint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -163,7 +165,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-html-tidy/tags"
+                    "tags": true
                 }
             ]
         },
@@ -174,7 +176,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-javac/tags"
+                    "tags": true
                 }
             ]
         },
@@ -185,7 +187,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-jscs/tags"
+                    "tags": true
                 }
             ]
         },
@@ -196,7 +198,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-jshint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -207,7 +209,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-jsl/tags"
+                    "tags": true
                 }
             ]
         },
@@ -218,7 +220,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-json/tags"
+                    "tags": true
                 }
             ]
         },
@@ -228,7 +230,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-jsxhint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -239,7 +241,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-lua/tags"
+                    "tags": true
                 }
             ]
         },
@@ -250,7 +252,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-luacheck/tags"
+                    "tags": true
                 }
             ]
         },
@@ -261,7 +263,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-pep257/tags"
+                    "tags": true
                 }
             ]
         },
@@ -272,7 +274,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-pep8/tags"
+                    "tags": true
                 }
             ]
         },
@@ -283,7 +285,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-php/tags"
+                    "tags": true
                 }
             ]
         },
@@ -294,7 +296,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-phpcs/tags"
+                    "tags": true
                 }
             ]
         },
@@ -305,7 +307,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-phplint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -316,7 +318,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-phpmd/tags"
+                    "tags": true
                 }
             ]
         },
@@ -327,7 +329,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-pyflakes/tags"
+                    "tags": true
                 }
             ]
         },
@@ -337,7 +339,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-pylint/tags"
+                    "tags": true
                 }
             ]
         },
@@ -347,7 +349,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-pyyaml/tags"
+                    "tags": true
                 }
             ]
         },
@@ -358,7 +360,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-rst/tags"
+                    "tags": true
                 }
             ]
         },
@@ -369,7 +371,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-rubocop/tags"
+                    "tags": true
                 }
             ]
         },
@@ -380,7 +382,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-ruby/tags"
+                    "tags": true
                 }
             ]
         },
@@ -390,7 +392,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-shellcheck/tags"
+                    "tags": true
                 }
             ]
         },
@@ -401,7 +403,7 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/SublimeLinter/SublimeLinter-xmllint/tags"
+                    "tags": true
                 }
             ]
         }
