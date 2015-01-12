@@ -10,15 +10,14 @@
             "previous_names": ["SublimeLinter Beta"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "base": "https://github.com/SublimeLinter/SublimeLinter-for-ST2",
+                    "sublime_text": "<3000",
                     "tags": true
                 },
                 {
-                    "sublime_text": "<3000",
-                    "base": "https://github.com/SublimeLinter/SublimeLinter-for-ST2",
+                    "sublime_text": ">=3000",
                     "tags": true
                 }
-
             ]
         },
         {
