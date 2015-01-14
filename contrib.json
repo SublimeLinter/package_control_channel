@@ -327,6 +327,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-twiglint",
+            "details": "https://github.com/maxgalbu/SublimeLinter-contrib-twiglint",
+            "labels": ["linting", "SublimeLinter", "twig"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-write-good",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-write-good",
             "labels": ["linting", "SublimeLinter"],
