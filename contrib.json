@@ -202,6 +202,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-lintr",
+            "details": "https://github.com/jimhester/SublimeLinter-contrib-lintr",
+            "labels": ["linting", "SublimeLinter", "R"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-lua-globals",
             "details": "https://github.com/Sinaloit/SublimeLinter-contrib-lua-globals",
             "labels": ["linting", "SublimeLinter", "lua"],
