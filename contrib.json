@@ -327,6 +327,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-standard",
+            "details": "https://github.com/Flet/SublimeLinter-contrib-standard",
+            "labels": ["linting", "SublimeLinter", "standard", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-tslint",
             "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
