@@ -316,6 +316,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-semistandard",
+            "details": "https://github.com/Flet/SublimeLinter-contrib-semistandard",
+            "labels": ["linting", "SublimeLinter", "semistandard", "javascript","semicolon"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-spider",
             "details": "https://github.com/zekesonxx/SublimeLinter-contrib-spider",
             "labels": ["linting", "SublimeLinter", "spider", "javascript"],
