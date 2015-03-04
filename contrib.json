@@ -337,6 +337,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-scalastyle",
+            "details": "https://github.com/jawshooah/SublimeLinter-contrib-scalastyle",
+            "author": "Josh Hagins",
+            "labels": ["linting", "SublimeLinter", "scala", "scalastyle"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scss-lint",
             "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
             "author": "Sergey Margaritov",
