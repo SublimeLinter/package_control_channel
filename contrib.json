@@ -224,6 +224,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-jolint",
+            "details": "https://github.com/thesave/SublimeLinter-jolint",
+            "labels": ["linting", "SublimeLinter", "jolie"],
+            "previous_names": ["SublimeLinter-jolint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-jslint",
             "details": "https://github.com/devdoc/SublimeLinter-jslint",
             "labels": ["linting", "SublimeLinter", "javascript"],
