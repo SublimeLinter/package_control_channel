@@ -113,6 +113,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ghdl",
+            "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-ghdl",
+            "labels": ["linting", "SublimeLinter", "vhdl"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-glsl",
             "details": "https://github.com/numb3r23/SublimeLinter-contrib-glsl",
             "labels": ["linting", "SublimeLinter", "glsl", "essl"],
@@ -271,6 +282,17 @@
             "name": "SublimeLinter-contrib-mlint",
             "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
             "labels": ["linting", "SublimeLinter", "matlab"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-nvc",
+            "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-nvc",
+            "labels": ["linting", "SublimeLinter", "vhdl"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -442,6 +464,17 @@
             "name": "SublimeLinter-contrib-write-good",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-write-good",
             "labels": ["linting", "SublimeLinter"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-xvhdl",
+            "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-xvhdl",
+            "labels": ["linting", "SublimeLinter", "vhdl"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
