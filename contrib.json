@@ -439,6 +439,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-stylint",
+            "details": "https://github.com/jackbrewer/SublimeLinter-contrib-stylint",
+            "labels": ["linting", "SublimeLinter", "stylint", "stylus"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-tslint",
             "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
