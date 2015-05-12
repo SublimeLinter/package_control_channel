@@ -24,6 +24,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-checkpatch",
+            "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-checkpatch",
+            "labels": ["linting", "SublimeLinter", "checkpatch", "c", "clang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang",
             "details": "https://github.com/nirm03/SublimeLinter-clang",
             "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
