@@ -428,6 +428,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-slim-lint",
+            "details": "https://github.com/elstgav/SublimeLinter-slim-lint",
+            "labels": ["linting", "SublimeLinter", "slim", "ruby"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-spider",
             "details": "https://github.com/zekesonxx/SublimeLinter-contrib-spider",
             "labels": ["linting", "SublimeLinter", "spider", "javascript"],
