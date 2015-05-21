@@ -147,7 +147,7 @@
         },
         {
             "name": "SublimeLinter-contrib-glua",
-            "details": "https://github.com/gmodcoders/SublimeLinter-contrib-glua",
+            "details": "https://github.com/glua/SublimeLinter-contrib-glua",
             "labels": ["linting", "SublimeLinter", "glua", "gmod", "lua"],
             "releases": [
                 {
