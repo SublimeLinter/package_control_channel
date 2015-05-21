@@ -47,6 +47,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-corestandard",
+            "details": "https://github.com/viracore/SublimeLinter-contrib-corestandard",
+            "labels": ["linting", "SublimeLinter", "corestandard", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dartanalyzer",
             "details": "https://github.com/jedijester/SublimeLinter-contrib-dartanalyzer",
             "labels": ["linting", "SublimeLinter", "dart"],
