@@ -391,6 +391,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ruby-lint",
+            "details": "https://github.com/jawshooah/SublimeLinter-contrib-ruby-lint",
+            "labels": ["linting", "SublimeLinter", "ruby", "ruby-lint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-rustc",
             "details": "https://github.com/oschwald/SublimeLinter-contrib-rustc",
             "labels": ["linting", "SublimeLinter", "rust", "rustc"],
