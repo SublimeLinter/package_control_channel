@@ -234,6 +234,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-htmlhint",
+            "details": "https://github.com/mmaday/SublimeLinter-contrib-htmlhint",
+            "labels": ["linting", "SublimeLinter", "html"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-iverilog",
             "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
             "labels": ["linting", "SublimeLinter", "verilog"],
