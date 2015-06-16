@@ -35,6 +35,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-check-source-formatting",
+            "details": "https://github.com/drewbrokke/SublimeLinter-contrib-check-source-formatting",
+            "labels": ["linting", "SublimeLinter", "check", "source", "formatting", "html", "javascript", "css"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang",
             "details": "https://github.com/nirm03/SublimeLinter-clang",
             "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
