@@ -223,6 +223,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-happiness",
+            "details": "https://github.com/nmn/SublimeLinter-contrib-happiness",
+            "labels": ["linting", "SublimeLinter", "javascript", "happiness"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
