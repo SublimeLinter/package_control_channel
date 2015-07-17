@@ -516,6 +516,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-sqlint",
+            "details": "https://github.com/trezona-lecomte/SublimeLinter-contrib-sqlint",
+            "labels": ["linting", "SublimeLinter", "sqlint", "sql"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-standard",
             "details": "https://github.com/Flet/SublimeLinter-contrib-standard",
             "labels": ["linting", "SublimeLinter", "standard", "javascript"],
