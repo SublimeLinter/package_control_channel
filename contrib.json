@@ -593,6 +593,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-xo",
+            "details": "https://github.com/sindresorhus/SublimeLinter-contrib-xo",
+            "labels": ["linting", "SublimeLinter", "javascript", "xo"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-xvhdl",
             "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-xvhdl",
             "labels": ["linting", "SublimeLinter", "vhdl"],
