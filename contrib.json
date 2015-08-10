@@ -549,6 +549,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-stylelint",
+            "details": "https://github.com/kungfusheep/SublimeLinter-contrib-stylelint",
+            "labels": ["linting", "SublimeLinter", "css", "css3"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-stylint",
             "details": "https://github.com/jackbrewer/SublimeLinter-contrib-stylint",
             "labels": ["linting", "SublimeLinter", "stylint", "stylus"],
