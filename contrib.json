@@ -402,6 +402,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-protoc-gen-lint",
+            "details": "https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint",
+            "labels": ["linting", "SublimeLinter", "protocol", "buffer", "protobuf"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/stopdropandrew/SublimeLinter-puppet",
             "labels": ["linting", "SublimeLinter", "puppet"],
