@@ -113,6 +113,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-elm-make",
+            "details": "https://github.com/bbugh/SublimeLinter-contrib-elm-make",
+            "labels": ["linting", "SublimeLinter", "elm"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-eslint",
             "details": "https://github.com/roadhump/SublimeLinter-eslint",
             "labels": ["linting", "SublimeLinter", "eslint"],
