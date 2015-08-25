@@ -190,6 +190,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-glualint",
+            "details": "https://github.com/FPtje/SublimeLinter-contrib-glualint",
+            "labels": ["linting", "SublimeLinter", "glua", "gmod", "lua"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-golint",
             "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
             "labels": ["linting", "SublimeLinter", "go"],
