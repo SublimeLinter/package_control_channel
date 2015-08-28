@@ -213,7 +213,7 @@
         },
         {
             "name": "SublimeLinter-contrib-gometalinter",
-            "details": "https://github.com/tylerb/SublimeLinter-contrib-gometalinter",
+            "details": "https://github.com/alecthomas/SublimeLinter-contrib-gometalinter",
             "labels": ["linting", "SublimeLinter", "go", "golang"],
             "releases": [
                 {
