@@ -490,6 +490,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-rstylelint",
+            "details": "https://github.com/mom1/SublimeLinter-contrib-rstylelint",
+            "labels": ["linting", "SublimeLinter", "rsl", "r-style"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scalac",
             "details": "https://github.com/jawshooah/SublimeLinter-contrib-scalac",
             "author": "Josh Hagins",
