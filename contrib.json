@@ -103,7 +103,7 @@
         },
         {
             "name": "SublimeLinter-contrib-elixirc",
-            "details": "https://github.com/doitian/SublimeLinter-contrib-elixirc",
+            "details": "https://github.com/smanolloff/SublimeLinter-contrib-elixirc",
             "labels": ["linting", "SublimeLinter", "erlang", "elixir", "elixirc"],
             "releases": [
                 {
