@@ -525,6 +525,19 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-sass-lint",
+            "details": "https://github.com/skovhus/SublimeLinter-contrib-sass-lint",
+            "author": "Kenneth Skovhus",
+            "labels": ["linting", "SublimeLinter", "sass", "scss"],
+            "previous_names": ["SublimeLinter-scss-lint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scss-lint",
             "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
             "author": "Sergey Margaritov",
