@@ -2,6 +2,17 @@
     "schema_version": "3.0.0",
     "packages": [
         {
+            "name": "SublimeLinter-contrib-alex",
+            "details": "https://github.com/sindresorhus/SublimeLinter-contrib-alex",
+            "labels": ["linting", "SublimeLinter", "markdown", "writing"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-bootlint",
             "details": "https://github.com/Thomas-Lebeau/SublimeLinter-contrib-bootlint",
             "labels": ["linting", "SublimeLinter", "bootlint", "Bootstrap"],
