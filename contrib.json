@@ -69,6 +69,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cmakelint",
+            "details": "https://github.com/jasjuang/SublimeLinter-contrib-cmakelint",
+            "labels": ["linting", "SublimeLinter", "make", "cmake"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-corestandard",
             "details": "https://github.com/viracore/SublimeLinter-contrib-corestandard",
             "labels": ["linting", "SublimeLinter", "corestandard", "javascript"],
