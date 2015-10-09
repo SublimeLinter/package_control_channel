@@ -80,6 +80,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-coffee-jshint",
+            "details": "https://github.com/univerio/SublimeLinter-contrib-coffee-jshint",
+            "labels": ["linting", "SublimeLinter", "jshint", "coffeescript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-corestandard",
             "details": "https://github.com/viracore/SublimeLinter-contrib-corestandard",
             "labels": ["linting", "SublimeLinter", "corestandard", "javascript"],
