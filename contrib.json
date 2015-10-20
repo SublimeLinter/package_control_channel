@@ -479,6 +479,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-polylint",
+            "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
+            "labels": ["linting", "SublimeLinter", "html", "polymer"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-protoc-gen-lint",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint",
             "labels": ["linting", "SublimeLinter", "protocol", "buffer", "protobuf"],
