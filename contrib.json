@@ -300,6 +300,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-hdevtools",
+            "details": "https://github.com/ch1bo/SublimeLinter-contrib-hdevtools",
+            "labels": ["linting", "SublimeLinter", "haskell"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
@@ -482,6 +493,17 @@
             "name": "SublimeLinter-contrib-polylint",
             "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
             "labels": ["linting", "SublimeLinter", "html", "polymer"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-proselint",
+            "details": "https://github.com/amperser/SublimeLinter-contrib-proselint",
+            "labels": ["linting", "SublimeLinter", "markdown", "text", "writing"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
