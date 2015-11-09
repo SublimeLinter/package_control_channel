@@ -95,6 +95,16 @@
             ]
         },
         {
+            "details": "https://github.com/robbenmu/SublimeLinter-contrib-fecs",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-flake8",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "python"],
