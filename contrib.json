@@ -568,6 +568,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-pig",
+            "previous_names": "PigLinter",
+            "details": "https://github.com/knightwu/SublimeLinter-contrib-pig",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/knightwu/SublimeLinter-contrib-pig/tree/master"
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/stopdropandrew/SublimeLinter-puppet",
             "labels": ["linting", "SublimeLinter", "puppet"],
