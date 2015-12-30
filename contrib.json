@@ -57,6 +57,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cheetah-flake",
+            "details": "https://github.com/jdb8/SublimeLinter-contrib-cheetah-flake",
+            "labels": ["linting", "SublimeLinter", "yelpcheetah", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang",
             "details": "https://github.com/nirm03/SublimeLinter-clang",
             "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
@@ -72,6 +83,17 @@
             "name": "SublimeLinter-contrib-cmakelint",
             "details": "https://github.com/jasjuang/SublimeLinter-contrib-cmakelint",
             "labels": ["linting", "SublimeLinter", "make", "cmake"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-coffee-jshint",
+            "details": "https://github.com/univerio/SublimeLinter-contrib-coffee-jshint",
+            "labels": ["linting", "SublimeLinter", "jshint", "coffeescript"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -171,6 +193,17 @@
             "name": "SublimeLinter-contrib-erlc",
             "details": "https://github.com/teh-cmc/SublimeLinter-contrib-erlc",
             "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-fecs",
+            "details": "https://github.com/robbenmu/SublimeLinter-contrib-fecs",
+            "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -300,6 +333,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-hdevtools",
+            "details": "https://github.com/ch1bo/SublimeLinter-contrib-hdevtools",
+            "labels": ["linting", "SublimeLinter", "haskell"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
@@ -336,17 +380,6 @@
             "name": "SublimeLinter-contrib-iverilog",
             "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
             "labels": ["linting", "SublimeLinter", "verilog"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-jade-lint",
-            "details": "https://github.com/benedfit/SublimeLinter-contrib-jade-lint",
-            "labels": ["linting", "SublimeLinter", "jade"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -444,6 +477,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-mypy",
+            "details": "https://github.com/fredcallaway/SublimeLinter-contrib-mypy",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-nvc",
             "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-nvc",
             "labels": ["linting", "SublimeLinter", "vhdl"],
@@ -479,9 +523,43 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-polylint",
+            "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
+            "labels": ["linting", "SublimeLinter", "html", "polymer"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-proselint",
+            "details": "https://github.com/amperser/SublimeLinter-contrib-proselint",
+            "labels": ["linting", "SublimeLinter", "markdown", "text", "writing"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-protoc-gen-lint",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint",
             "labels": ["linting", "SublimeLinter", "protocol", "buffer", "protobuf"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-pug-lint",
+            "details": "https://github.com/benedfit/SublimeLinter-contrib-pug-lint",
+            "labels": ["linting", "SublimeLinter", "jade"],
+            "previous_names": ["SublimeLinter-contrib-jade-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -515,6 +593,17 @@
             "name": "SublimeLinter-contrib-raml-cop",
             "details": "https://github.com/thebinarypenguin/SublimeLinter-contrib-raml-cop",
             "labels": ["linting", "SublimeLinter", "raml"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-reek",
+            "details": "https://github.com/codequest-eu/SublimeLinter-contrib-reek",
+            "labels": ["linting", "SublimeLinter", "ruby"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
