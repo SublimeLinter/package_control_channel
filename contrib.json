@@ -377,18 +377,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-pug-lint",
-            "details": "https://github.com/benedfit/SublimeLinter-contrib-pug-lint",
-            "labels": ["linting", "SublimeLinter", "jade"],
-            "previous_names": ["SublimeLinter-contrib-jade-lint"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-java",
             "details": "https://github.com/reekoheek/SublimeLinter-java",
             "labels": ["linting", "SublimeLinter", "java"],
@@ -549,6 +537,18 @@
             "name": "SublimeLinter-contrib-protoc-gen-lint",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint",
             "labels": ["linting", "SublimeLinter", "protocol", "buffer", "protobuf"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-pug-lint",
+            "details": "https://github.com/benedfit/SublimeLinter-contrib-pug-lint",
+            "labels": ["linting", "SublimeLinter", "jade"],
+            "previous_names": ["SublimeLinter-contrib-jade-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
