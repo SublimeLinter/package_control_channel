@@ -201,6 +201,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-fecs",
+            "details": "https://github.com/robbenmu/SublimeLinter-contrib-fecs",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-frosted",
             "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted",
             "labels": ["linting", "SublimeLinter", "python"],
