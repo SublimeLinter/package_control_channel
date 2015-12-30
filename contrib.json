@@ -456,6 +456,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-mypy",
+            "details": "https://github.com/fredcallaway/SublimeLinter-contrib-mypy",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-nvc",
             "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-nvc",
             "labels": ["linting", "SublimeLinter", "vhdl"],
