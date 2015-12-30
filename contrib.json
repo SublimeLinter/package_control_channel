@@ -212,6 +212,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-foodcritic",
+            "details": "https://github.com/badmadrad/SublimeLinter-foodcritic",
+            "labels": ["linting", "SublimeLinter", "foodcritic", "chef"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-frosted",
             "details": "https://github.com/Shura1oplot/SublimeLinter-contrib-frosted",
             "labels": ["linting", "SublimeLinter", "python"],
