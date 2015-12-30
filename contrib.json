@@ -355,9 +355,10 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-jade-lint",
-            "details": "https://github.com/benedfit/SublimeLinter-contrib-jade-lint",
+            "name": "SublimeLinter-contrib-pug-lint",
+            "details": "https://github.com/benedfit/SublimeLinter-contrib-pug-lint",
             "labels": ["linting", "SublimeLinter", "jade"],
+            "previous_names": ["SublimeLinter-contrib-jade-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
