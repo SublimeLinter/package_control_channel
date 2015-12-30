@@ -57,6 +57,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cheetah-flake",
+            "details": "https://github.com/jdb8/SublimeLinter-contrib-cheetah-flake",
+            "labels": ["linting", "SublimeLinter", "yelpcheetah", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang",
             "details": "https://github.com/nirm03/SublimeLinter-clang",
             "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
