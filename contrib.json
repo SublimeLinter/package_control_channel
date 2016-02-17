@@ -322,6 +322,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-hadolint",
+            "details": "https://github.com/niksite/SublimeLinter-contrib-hadolint",
+            "labels": ["linting", "SublimeLinter", "docker"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-happiness",
             "details": "https://github.com/nmn/SublimeLinter-contrib-happiness",
             "labels": ["linting", "SublimeLinter", "javascript", "happiness"],
