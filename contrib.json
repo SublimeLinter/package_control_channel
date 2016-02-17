@@ -794,6 +794,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-textlint",
+            "details": "https://github.com/joeybaker/SublimeLinter-textlint",
+            "labels": ["linting", "SublimeLinter", "markdown"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-twiglint",
             "details": "https://github.com/maxgalbu/SublimeLinter-contrib-twiglint",
             "labels": ["linting", "SublimeLinter", "twig"],
