@@ -13,6 +13,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-bemlint",
+            "details": "https://github.com/DesTincT/SublimeLinter-contrib-bemlint",
+            "labels": ["linting", "SublimeLinter", "html"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-bootlint",
             "details": "https://github.com/Thomas-Lebeau/SublimeLinter-contrib-bootlint",
             "labels": ["linting", "SublimeLinter", "bootlint", "Bootstrap"],
