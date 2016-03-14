@@ -13,6 +13,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-au3check",
+            "details": "https://github.com/smsrkr/SublimeLinter-contrib-au3check",
+            "labels": ["linting", "SublimeLinter", "AutoIt3", "autoit"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-bemlint",
             "details": "https://github.com/DesTincT/SublimeLinter-contrib-bemlint",
             "labels": ["linting", "SublimeLinter", "html"],
