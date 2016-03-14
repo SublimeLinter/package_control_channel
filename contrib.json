@@ -366,6 +366,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-htmllint",
+            "details": "https://github.com/necramirez/SublimeLinter-contrib-htmllint",
+            "labels": ["linting", "SublimeLinter", "html"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
