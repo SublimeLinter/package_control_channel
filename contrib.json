@@ -794,6 +794,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-swiftlint",
+            "details": "https://github.com/mailiam/SublimeLinter-contrib-swiftlint",
+            "labels": ["linting", "SublimeLinter", "swift"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-tslint",
             "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
