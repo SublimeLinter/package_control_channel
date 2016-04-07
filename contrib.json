@@ -827,6 +827,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-stylelintg",
+            "details": "https://github.com/fengnana/SublimeLinter-contrib-stylelintg",
+            "labels": ["linting", "SublimeLinter", "stylelintg"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-swiftlint",
             "details": "https://github.com/mailiam/SublimeLinter-contrib-swiftlint",
             "labels": ["linting", "SublimeLinter", "swift"],
