@@ -827,9 +827,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-stylintg",
-            "details": "https://github.com/fengnana/SublimeLinter-contrib-stylelint-g",
-            "labels": ["linting", "SublimeLinter", "stylintg", "stylus"],
+            "name": "SublimeLinter-contrib-stylelintg",
+            "details": "https://github.com/fengnana/SublimeLinter-contrib-stylelintg",
+            "labels": ["linting", "SublimeLinter", "stylelintg"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
