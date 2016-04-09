@@ -510,6 +510,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-makensis",
+            "details": "https://github.com/idleberg/SublimeLinter-contrib-makensis",
+            "labels": ["linting", "SublimeLinter", "nsis", "makensis"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mdl",
             "details": "https://github.com/roadhump/SublimeLinter-contrib-mdl",
             "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
