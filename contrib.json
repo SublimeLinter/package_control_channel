@@ -443,6 +443,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-lessc",
+            "details": "https://github.com/MarkGriffiths/SublimeLinter-contrib-lessc",
+            "labels": ["linting", "SublimeLinter", "less"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "details": "https://github.com/reekoheek/SublimeLinter-java",
             "labels": ["linting", "SublimeLinter", "java"],
