@@ -388,28 +388,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-julialint",
-            "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
-            "labels": ["linting", "SublimeLinter", "julia"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-julialintserver",
-            "details": "https://github.com/invenia/SublimeLinter-contrib-julialintserver",
-            "labels": ["linting", "SublimeLinter", "julia"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-haml-lint",
             "details": "https://github.com/jeroenj/SublimeLinter-contrib-haml-lint",
             "labels": ["linting", "SublimeLinter", "haml"],
@@ -435,6 +413,28 @@
             "name": "SublimeLinter-contrib-iverilog",
             "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
             "labels": ["linting", "SublimeLinter", "verilog"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-julialint",
+            "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
+            "labels": ["linting", "SublimeLinter", "julia"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-julialintserver",
+            "details": "https://github.com/invenia/SublimeLinter-contrib-julialintserver",
+            "labels": ["linting", "SublimeLinter", "julia"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
