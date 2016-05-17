@@ -256,9 +256,10 @@
             ]
         },
         {
-            "details": "https://github.com/SublimeLinter/SublimeLinter-pep257",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pydocstyle",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
-            "labels": ["linting", "SublimeLinter", "python"],
+            "labels": ["linting", "SublimeLinter", "python", "pep257"],
+            "previous_names": ["SublimeLinter-pep257"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
