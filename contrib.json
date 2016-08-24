@@ -860,6 +860,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-stylelint_d",
+            "details": "https://github.com/jo-sm/SublimeLinter-contrib-stylelint_d",
+            "labels": ["linting", "SublimeLinter", "css", "less", "sass"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-stylint",
             "details": "https://github.com/jackbrewer/SublimeLinter-contrib-stylint",
             "labels": ["linting", "SublimeLinter", "stylint", "stylus"],
