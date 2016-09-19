@@ -157,6 +157,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-csstree",
+            "details": "https://github.com/csstree/SublimeLinter-contrib-csstree",
+            "labels": ["linting", "SublimeLinter", "css"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dartanalyzer",
             "details": "https://github.com/jedijester/SublimeLinter-contrib-dartanalyzer",
             "labels": ["linting", "SublimeLinter", "dart"],
