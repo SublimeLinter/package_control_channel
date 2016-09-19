@@ -24,6 +24,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-avr-gcc",
+            "details": "https://github.com/ChisholmKyle/SublimeLinter-contrib-avr-gcc",
+            "labels": ["linting", "SublimeLinter", "avr", "gcc"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-bashate",
             "details": "https://github.com/maristgeek/SublimeLinter-contrib-bashate",
             "labels": ["linting", "SublimeLinter", "bash"],
