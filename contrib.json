@@ -213,7 +213,7 @@
         },
         {
             "name": "SublimeLinter-contrib-elm-make",
-            "details": "https://github.com/bbugh/SublimeLinter-contrib-elm-make",
+            "details": "https://github.com/sentience/SublimeLinter-contrib-elm-make",
             "labels": ["linting", "SublimeLinter", "elm"],
             "releases": [
                 {
