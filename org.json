@@ -32,6 +32,16 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-bandit",
+            "labels": ["linting", "SublimeLinter", "python", "security"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-chktex",
             "labels": ["linting", "SublimeLinter", "latex"],
             "releases": [
