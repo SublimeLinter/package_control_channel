@@ -701,7 +701,7 @@
         },
         {
             "name": "SublimeLinter-contrib-puppet",
-            "details": "https://github.com/stopdropandrew/SublimeLinter-puppet",
+            "details": "https://github.com/dschaaff/SublimeLinter-puppet",
             "labels": ["linting", "SublimeLinter", "puppet"],
             "releases": [
                 {
@@ -712,7 +712,7 @@
         },
         {
             "name": "SublimeLinter-contrib-puppet-lint",
-            "details": "https://github.com/stopdropandrew/SublimeLinter-puppet-lint",
+            "details": "https://github.com/dschaaff/SublimeLinter-puppet-lint",
             "labels": ["linting", "SublimeLinter", "puppet"],
             "releases": [
                 {
