@@ -13,6 +13,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ansible-lint",
+            "details": "https://github.com/mliljedahl/SublimeLinter-contrib-ansible-lint",
+            "labels": ["linting", "SublimeLinter", "ansible", "playbooks"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-au3check",
             "details": "https://github.com/smsrkr/SublimeLinter-contrib-au3check",
             "labels": ["linting", "SublimeLinter", "AutoIt3", "autoit"],
