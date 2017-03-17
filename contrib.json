@@ -234,6 +234,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-epcomp",
+            "details": "https://github.com/veelo/SublimeLinter-contrib-epcomp",
+            "labels": ["linting", "SublimeLinter", "prospero", "extended", "pascal"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-eslint",
             "details": "https://github.com/roadhump/SublimeLinter-eslint",
             "labels": ["linting", "SublimeLinter", "eslint"],
