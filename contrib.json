@@ -520,6 +520,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-livecodelint",
+            "details": "https://github.com/trevordevore/sublimelinter-contrib-livecodelint",
+            "labels": ["linting", "SublimeLinter", "livecode"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-java",
             "details": "https://github.com/reekoheek/SublimeLinter-java",
             "labels": ["linting", "SublimeLinter", "java"],
