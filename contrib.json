@@ -675,6 +675,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-nvcc",
+            "details": "https://github.com/blahgeek/SublimeLinter-contrib-nvcc",
+            "labels": ["linting", "SublimeLinter", "cuda", "cpp", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-perl",
             "details": "https://github.com/oschwald/SublimeLinter-perl",
             "labels": ["linting", "SublimeLinter", "perl"],
