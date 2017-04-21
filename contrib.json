@@ -1004,6 +1004,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-tslint2",
+            "details": "https://github.com/wisdman/SublimeLinter-contrib-TSLint2",
+            "labels": ["linting", "SublimeLinter", "typescript 2", "TypeCheck"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-textlint",
             "details": "https://github.com/joeybaker/SublimeLinter-textlint",
             "labels": ["linting", "SublimeLinter", "markdown"],
