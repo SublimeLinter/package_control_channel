@@ -388,6 +388,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-gosimple",
+            "details": "https://github.com/clocklear/SublimeLinter-contrib-gosimple",
+            "labels": ["linting", "SublimeLinter", "go"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-gotype",
             "details": "https://github.com/SirReal/SublimeLinter-contrib-gotype",
             "labels": ["linting", "SublimeLinter", "go"],
