@@ -487,6 +487,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-joker",
+            "details": "https://github.com/candid82/SublimeLinter-contrib-joker",
+            "labels": ["linting", "SublimeLinter", "clojure", "cljs"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
