@@ -1014,6 +1014,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-swaglint",
+            "details": "https://github.com/byCedric/SublimeLinter-contrib-swaglint",
+            "labels": ["linting", "SublimeLinter", "yaml"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "platforms": ["osx"],
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-swiftlint",
             "details": "https://github.com/mailiam/SublimeLinter-contrib-swiftlint",
             "labels": ["linting", "SublimeLinter", "swift"],
