@@ -686,6 +686,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-nginx-lint",
+            "details": "https://github.com/irvinlim/SublimeLinter-contrib-nginx-lint",
+            "labels": ["linting", "SublimeLinter", "config", "nginx"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-nvc",
             "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-nvc",
             "labels": ["linting", "SublimeLinter", "vhdl"],
