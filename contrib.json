@@ -146,9 +146,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-coffee-jshint",
-            "details": "https://github.com/univerio/SublimeLinter-contrib-coffee-jshint",
-            "labels": ["linting", "SublimeLinter", "jshint", "coffeescript"],
+            "name": "SublimeLinter-contrib-codeclimate",
+            "details": "https://github.com/codeclimate/SublimeLinter-contrib-codeclimate",
+            "labels": ["linting", "SublimeLinter", "codeclimate"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
