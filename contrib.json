@@ -1038,6 +1038,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-tailor",
+            "details": "https://github.com/vaemoi/SublimeLinter-contrib-tailor",
+            "labels": ["linting", "SublimeLinter", "swift"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-tslint",
             "details": "https://github.com/lavrton/SublimeLinter-contrib-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
