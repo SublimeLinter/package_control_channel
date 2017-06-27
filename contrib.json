@@ -926,6 +926,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-serplint",
+            "details": "https://github.com/beaugunderson/SublimeLinter-contrib-serplint",
+            "labels": ["linting", "SublimeLinter", "serplint", "serpent"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-slim-lint",
             "details": "https://github.com/elstgav/SublimeLinter-slim-lint",
             "labels": ["linting", "SublimeLinter", "slim", "ruby"],
