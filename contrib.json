@@ -157,6 +157,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cookstyle",
+            "details": "https://github.com/jeffbyrnes/SublimeLinter-contrib-cookstyle",
+            "labels": ["linting", "SublimeLinter", "chef", "ruby"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-corestandard",
             "details": "https://github.com/viracore/SublimeLinter-contrib-corestandard",
             "labels": ["linting", "SublimeLinter", "corestandard", "javascript"],
