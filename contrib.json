@@ -507,7 +507,7 @@
                     "tags": true
                 }
             ]
-        }
+        },
         {
             "name": "SublimeLinter-contrib-iverilog",
             "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
