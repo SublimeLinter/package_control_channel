@@ -1037,7 +1037,7 @@
         },
         {
             "name": "SublimeLinter-contrib-stylint",
-            "details": "https://github.com/jackbrewer/SublimeLinter-contrib-stylint",
+            "details": "https://github.com/markalfred/SublimeLinter-contrib-stylint",
             "labels": ["linting", "SublimeLinter", "stylint", "stylus"],
             "releases": [
                 {
