@@ -675,6 +675,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-markdownlint",
+            "details": "https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint",
+            "labels": ["linting", "SublimeLinter", "markdown", "markdownlint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mdl",
             "details": "https://github.com/roadhump/SublimeLinter-contrib-mdl",
             "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
