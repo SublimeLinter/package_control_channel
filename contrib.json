@@ -1058,6 +1058,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-solhint",
+            "details": "https://github.com/idrabenia/SublimeLinter-solhint",
+            "labels": ["linting", "SublimeLinter", "solidity", "ethereum"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-sublime-syntax",
             "details": "https://github.com/FichteFoll/SublimeLinter-contrib-sublime-syntax",
             "labels": ["linting", "SublimeLinter", "syntax", "test"],
@@ -1195,17 +1206,6 @@
             "name": "SublimeLinter-contrib-yaml-lint",
             "details": "https://github.com/witsec/SublimeLinter-contrib-yaml-lint",
             "labels": ["linting", "SublimeLinter", "yaml"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-solhint",
-            "details": "https://github.com/idrabenia/SublimeLinter-solhint",
-            "labels": ["linting", "SublimeLinter", "solidity", "ethereum"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
