@@ -509,6 +509,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-iscc",
+            "details": "https://github.com/idleberg/SublimeLinter-contrib-iscc",
+            "labels": ["linting", "SublimeLinter", "innosetup", "inno setup"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "platforms": ["windows"],
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-iverilog",
             "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
             "labels": ["linting", "SublimeLinter", "verilog"],
