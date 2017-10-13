@@ -190,6 +190,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-credo",
+            "details": "https://github.com/ocolot/SublimeLinter-contrib-credo",
+            "labels": ["linting", "SublimeLinter", "elixer"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-csstree",
             "details": "https://github.com/csstree/SublimeLinter-contrib-csstree",
             "labels": ["linting", "SublimeLinter", "css"],
