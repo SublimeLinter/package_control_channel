@@ -1171,6 +1171,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-vale",
+            "details": "https://github.com/admhlt/SublimeLinter-contrib-vale",
+            "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-verilator",
             "details": "https://github.com/poucotm/SublimeLinter-contrib-verilator",
             "labels": ["linting", "SublimeLinter", "verilog", "systemverilog", "verilator"],
