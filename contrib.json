@@ -234,6 +234,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-dmd",
+            "details": "https://github.com/veelo/SublimeLinter-contrib-dmd",
+            "labels": ["linting", "SublimeLinter", "dlang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dxl",
             "details": "https://github.com/Adarma/SublimeLinter-contrib-dxl",
             "labels": ["linting", "SublimeLinter", "dxl"],
