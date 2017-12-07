@@ -821,6 +821,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-php-cs-fixer",
+            "details": "https://github.com/jhoff/SublimeLinter-contrib-php-cs-fixer",
+            "labels": ["linting", "SublimeLinter", "php-cs-fixer"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-polylint",
             "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
             "labels": ["linting", "SublimeLinter", "html", "polymer"],
