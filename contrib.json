@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "SublimeLinter-contrib-dockerfilelint",
-            "details": "https://github.com/sindresorhus/SublimeLinter-contrib-dockerfilelint",
+            "details": "https://github.com/prog1dev/SublimeLinter-contrib-dockerfilelint",
             "labels": ["linting", "SublimeLinter", "docker", "dockerfile", "dockerfile-linter"],
             "releases": [
                 {
