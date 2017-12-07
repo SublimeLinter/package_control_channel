@@ -2,17 +2,6 @@
     "schema_version": "3.0.0",
     "packages": [
         {
-            "name": "SublimeLinter-contrib-dockerfilelint",
-            "details": "https://github.com/prog1dev/SublimeLinter-contrib-dockerfilelint",
-            "labels": ["linting", "SublimeLinter", "docker", "dockerfile", "dockerfile-linter"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-alex",
             "details": "https://github.com/sindresorhus/SublimeLinter-contrib-alex",
             "labels": ["linting", "SublimeLinter", "markdown", "writing"],
@@ -248,6 +237,17 @@
             "name": "SublimeLinter-contrib-dmd",
             "details": "https://github.com/veelo/SublimeLinter-contrib-dmd",
             "labels": ["linting", "SublimeLinter", "dlang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-dockerfilelint",
+            "details": "https://github.com/prog1dev/SublimeLinter-contrib-dockerfilelint",
+            "labels": ["linting", "SublimeLinter", "docker", "dockerfile", "dockerfile-linter"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
