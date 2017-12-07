@@ -245,6 +245,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-dockerfilelint",
+            "details": "https://github.com/prog1dev/SublimeLinter-contrib-dockerfilelint",
+            "labels": ["linting", "SublimeLinter", "docker", "dockerfile", "dockerfile-linter"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dxl",
             "details": "https://github.com/Adarma/SublimeLinter-contrib-dxl",
             "labels": ["linting", "SublimeLinter", "dxl"],
