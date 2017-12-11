@@ -234,6 +234,17 @@
             ]
         },
         {
+          "name": "SublimeLinter-contrib-dogma",
+          "details": "https://github.com/mintcore/SublimeLinter-contrib-dogma",
+          "labels": ["linting", "SublimeLinter", "dogma", "elixir"],
+          "releases": [
+              {
+                  "sublime_text": ">=3000",
+                  "tags": true
+              }
+          ]
+        },
+        {
             "name": "SublimeLinter-contrib-dmd",
             "details": "https://github.com/veelo/SublimeLinter-contrib-dmd",
             "labels": ["linting", "SublimeLinter", "dlang"],
