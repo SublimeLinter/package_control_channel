@@ -266,6 +266,17 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pycodestyle",
+            "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
+            "labels": ["linting", "SublimeLinter", "python", "pep8"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-pydocstyle",
             "donate": "https://github.com/SublimeLinter/SublimeLinter3#share-the-love",
             "labels": ["linting", "SublimeLinter", "python", "pep257"],
