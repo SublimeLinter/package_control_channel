@@ -3,9 +3,9 @@
     "packages": [
         {
             "name": "SublimeLinter",
-            "details": "https://github.com/SublimeLinter/SublimeLinter3",
+            "details": "https://github.com/SublimeLinter/SublimeLinter",
             "homepage": "http://sublimelinter.com",
-            "donate": "https://github.com/SublimeLinter/SublimeLinter3#sublimelinter",
+            "donate": "https://github.com/SublimeLinter/SublimeLinter",
             "labels": ["linting", "SublimeLinter"],
             "previous_names": ["SublimeLinter Beta"],
             "releases": [
