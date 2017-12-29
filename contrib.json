@@ -643,9 +643,10 @@
             ]
         },
         {
-            "name": "SublimeLinter-jolint",
+            "name": "SublimeLinter-contrib-jolint",
             "details": "https://github.com/thesave/SublimeLinter-jolint",
             "labels": ["linting", "SublimeLinter", "jolie"],
+            "previous_names": ["SublimeLinter-jolint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -654,9 +655,10 @@
             ]
         },
         {
-            "name": "SublimeLinter-jsdebugmarkers",
+            "name": "SublimeLinter-contrib-jsdebugmarkers",
             "details": "https://github.com/LeoLeal/SublimeLinter-jsdebugmarkers",
             "labels": ["linting", "SublimeLinter", "javascript"],
+            "previous_names": ["SublimeLinter-jsdebugmarkers"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1037,9 +1039,10 @@
             ]
         },
         {
-            "name": "SublimeLinter-slim-lint",
+            "name": "SublimeLinter-contrib-slim-lint",
             "details": "https://github.com/elstgav/SublimeLinter-slim-lint",
             "labels": ["linting", "SublimeLinter", "slim", "ruby"],
+            "previous_names": ["SublimeLinter-slim-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
