@@ -101,6 +101,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-eslint",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-eslint",
+            "labels": ["linting", "SublimeLinter", "eslint"],
+            "previous_names": ["SublimeLinter-contrib-eslint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-flake8",
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [

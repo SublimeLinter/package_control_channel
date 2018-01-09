@@ -300,17 +300,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-eslint",
-            "details": "https://github.com/roadhump/SublimeLinter-eslint",
-            "labels": ["linting", "SublimeLinter", "eslint"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-eslint_d",
             "details": "https://github.com/roadhump/SublimeLinter-contrib-eslint_d",
             "labels": ["linting", "SublimeLinter", "eslint_d"],
