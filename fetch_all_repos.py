@@ -28,7 +28,7 @@ from urllib.error import HTTPError
 POOL_SIZE = 10  # number of parallel threads
 FILES = [arg for arg in sys.argv if arg.endswith(".json")]
 DEST_DIR = "linter_repos/" if sys.argv[1].endswith(".json") else sys.argv[1]
-SL_URL = "https://github.com/SublimeLinter/SublimeLinter3"
+SL_URL = "https://github.com/SublimeLinter/SublimeLinter"
 CHECK_MODE = False if "--check" not in sys.argv else True
 URLS = []
 MISSING_URLS = []
