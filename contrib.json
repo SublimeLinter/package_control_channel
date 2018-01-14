@@ -454,17 +454,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-gotype",
-            "details": "https://github.com/SirReal/SublimeLinter-contrib-gotype",
-            "labels": ["linting", "SublimeLinter", "go"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-govet",
             "details": "https://github.com/SirReal/SublimeLinter-contrib-govet",
             "labels": ["linting", "SublimeLinter", "go"],
