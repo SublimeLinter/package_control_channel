@@ -412,6 +412,18 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-gotype",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-gotype",
+            "previous_names": ["SublimeLinter-contrib-gotype"],
+            "labels": ["linting", "SublimeLinter", "go"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
