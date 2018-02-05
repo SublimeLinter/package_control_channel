@@ -134,7 +134,7 @@
         },
         {
             "name": "SublimeLinter-gcc",
-            "details": "https://github.com/jfcherng/SublimeLinter-gcc",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-gcc",
             "labels": ["linting", "SublimeLinter", "clang", "c++"],
             "previous_names": ["SublimeLinter-contrib-gcc"],
             "releases": [
