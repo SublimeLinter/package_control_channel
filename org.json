@@ -133,6 +133,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-gcc",
+            "details": "https://github.com/jfcherng/SublimeLinter-gcc",
+            "labels": ["linting", "SublimeLinter", "clang", "c++"],
+            "previous_names": ["SublimeLinter-contrib-gcc"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-ghc",
             "labels": ["linting", "SublimeLinter", "haskell"],
             "releases": [
