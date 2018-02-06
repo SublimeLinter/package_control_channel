@@ -1270,6 +1270,17 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-contrib-xqlint",
+            "details": "https://github.com/jmeischner/SublimeLinter-contrib-xqlint",
+            "labels": ["linting", "SublimeLinter", "xquery"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
