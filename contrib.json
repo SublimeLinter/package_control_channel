@@ -410,17 +410,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-golint",
-            "details": "https://github.com/SirReal/SublimeLinter-contrib-golint",
-            "labels": ["linting", "SublimeLinter", "go"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-gometalinter",
             "details": "https://github.com/alecthomas/SublimeLinter-contrib-gometalinter",
             "labels": ["linting", "SublimeLinter", "go", "golang"],

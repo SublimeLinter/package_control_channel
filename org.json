@@ -165,6 +165,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-golint",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-golint",
+            "labels": ["linting", "SublimeLinter", "go"],
+            "previous_names": ["SublimeLinter-contrib-golint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-haml",
             "labels": ["linting", "SublimeLinter", "haml"],
             "releases": [
