@@ -432,17 +432,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-govet",
-            "details": "https://github.com/SirReal/SublimeLinter-contrib-govet",
-            "labels": ["linting", "SublimeLinter", "go"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-hadolint",
             "details": "https://github.com/niksite/SublimeLinter-contrib-hadolint",
             "labels": ["linting", "SublimeLinter", "docker"],
