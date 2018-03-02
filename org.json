@@ -51,6 +51,17 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-clang",
+            "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
+            "previous_names": ["SublimeLinter-contrib-clang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-coffee",
             "labels": ["linting", "SublimeLinter", "coffeescript"],
             "releases": [
