@@ -210,6 +210,17 @@
             ]
         },
         {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-haml-lint",
+            "labels": ["linting", "SublimeLinter", "haml"],
+            "previous_names": ["SublimeLinter-contrib-haml-lint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-hlint",
             "labels": ["linting", "SublimeLinter", "haskell"],
             "releases": [

@@ -464,17 +464,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-haml-lint",
-            "details": "https://github.com/jeroenj/SublimeLinter-contrib-haml-lint",
-            "labels": ["linting", "SublimeLinter", "haml"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-htmlhint",
             "details": "https://github.com/mmaday/SublimeLinter-contrib-htmlhint",
             "labels": ["linting", "SublimeLinter", "html"],
