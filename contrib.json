@@ -856,6 +856,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-remark-lint",
+            "details": "https://github.com/j616/SublimeLinter-contrib-remark-lint",
+            "labels": ["linting", "SublimeLinter", "markdown", "remark-lint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-ruby-lint",
             "details": "https://github.com/jawshooah/SublimeLinter-contrib-ruby-lint",
             "labels": ["linting", "SublimeLinter", "ruby", "ruby-lint"],
