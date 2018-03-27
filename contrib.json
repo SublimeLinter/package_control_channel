@@ -666,17 +666,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-mdl",
-            "details": "https://github.com/roadhump/SublimeLinter-contrib-mdl",
-            "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-mlint",
             "details": "https://github.com/rdeits/SublimeLinter-contrib-mlint",
             "labels": ["linting", "SublimeLinter", "matlab"],

@@ -321,6 +321,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-mdl",
+            "previous_names": ["SublimeLinter-contrib-mdl"],
+            "details": "https://github.com/SublimeLinter/SublimeLinter-mdl",
+            "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-pycodestyle",
             "labels": ["linting", "SublimeLinter", "python", "pep8"],
             "releases": [
