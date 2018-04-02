@@ -474,6 +474,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-tslint",
+            "previous_names": ["SublimeLinter-contrib-tslint"],
+            "details": "https://github.com/SublimeLinter/SublimeLinter-tslint",
+            "labels": ["linting", "SublimeLinter", "typescript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-xmllint",
             "labels": ["linting", "SublimeLinter", "xml"],
             "releases": [
