@@ -474,6 +474,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-stylelint",
+            "previous_names": ["SublimeLinter-contrib-stylelint"],
+            "details": "https://github.com/SublimeLinter/SublimeLinter-stylelint",
+            "labels": ["linting", "SublimeLinter", "css", "css3", "less", "sass", "scss"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-tslint",
             "previous_names": ["SublimeLinter-contrib-tslint"],
             "details": "https://github.com/SublimeLinter/SublimeLinter-tslint",
