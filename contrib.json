@@ -756,6 +756,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-phpstan",
+            "details": "https://github.com/Rockstar04/SublimeLinter-contrib-phpstan",
+            "labels": ["linting", "SublimeLinter", "phpstan"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-polylint",
             "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
             "labels": ["linting", "SublimeLinter", "html", "polymer"],
@@ -1220,17 +1231,6 @@
             "name": "SublimeLinter-contrib-xqlint",
             "details": "https://github.com/jmeischner/SublimeLinter-contrib-xqlint",
             "labels": ["linting", "SublimeLinter", "xquery"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-phpstan",
-            "details": "https://github.com/Rockstar04/SublimeLinter-contrib-phpstan",
-            "labels": ["linting", "SublimeLinter", "phpstan"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
