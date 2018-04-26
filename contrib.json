@@ -756,6 +756,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-phpstan",
+            "details": "https://github.com/Rockstar04/SublimeLinter-contrib-phpstan",
+            "labels": ["linting", "SublimeLinter", "phpstan"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-polylint",
             "details": "https://github.com/nomego/SublimeLinter-contrib-polylint",
             "labels": ["linting", "SublimeLinter", "html", "polymer"],
