@@ -13,6 +13,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ameba",
+            "details": "https://github.com/epergo/SublimeLinter-contrib-ameba",
+            "labels": ["linting", "SublimeLinter", "ameba", "crystal"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "platforms": ["osx", "linux"],
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-ansible-lint",
             "details": "https://github.com/mliljedahl/SublimeLinter-contrib-ansible-lint",
             "labels": ["linting", "SublimeLinter", "ansible", "playbooks"],
