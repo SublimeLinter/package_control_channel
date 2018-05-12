@@ -322,6 +322,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-fasterer",
+            "details": "https://github.com/slapvanilla/SublimeLinter-contrib-fasterer",
+            "labels": ["linting", "SublimeLinter", "ruby"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-fecs",
             "details": "https://github.com/robbenmu/SublimeLinter-contrib-fecs",
             "labels": ["linting", "SublimeLinter", "javascript"],
