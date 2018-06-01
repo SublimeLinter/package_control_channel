@@ -2,6 +2,17 @@
     "schema_version": "3.0.0",
     "packages": [
         {
+            "name": "SublimeLinter-addon-toggler",
+            "details": "https://github.com/kaste/SublimeLinter-addon-toggler",
+            "labels": ["linting", "SublimeLinter", "addon"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-alex",
             "details": "https://github.com/sindresorhus/SublimeLinter-contrib-alex",
             "labels": ["linting", "SublimeLinter", "markdown", "writing"],
