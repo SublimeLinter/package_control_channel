@@ -168,6 +168,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cloudformation",
+            "details": "https://github.com/fatbasstard/SublimeLinter-contrib-cloudformation",
+            "labels": ["linting", "SublimeLinter", "yaml", "json", "CloudFormation", "Cfn"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-cmakelint",
             "details": "https://github.com/jasjuang/SublimeLinter-contrib-cmakelint",
             "labels": ["linting", "SublimeLinter", "make", "cmake"],
