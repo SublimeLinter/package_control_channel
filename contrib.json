@@ -1195,6 +1195,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-vcom",
+            "details": "https://github.com/jevogel/SublimeLinter-contrib-vcom",
+            "labels": ["linting", "SublimeLinter", "vhdl", "vcom", "modelsim"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-verilator",
             "details": "https://github.com/poucotm/SublimeLinter-contrib-verilator",
             "labels": ["linting", "SublimeLinter", "verilog", "systemverilog", "verilator"],
