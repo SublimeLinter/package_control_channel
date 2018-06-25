@@ -2,6 +2,17 @@
     "schema_version": "3.0.0",
     "packages": [
         {
+            "name": "SublimeLinter-addon-black-for-flake",
+            "details": "https://github.com/kaste/SublimeLinter-addon-black-for-flake",
+            "labels": ["linting", "SublimeLinter", "addon"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-addon-filter",
             "details": "https://github.com/kaste/SublimeLinter-addon-filter",
             "labels": ["linting", "SublimeLinter", "addon"],
