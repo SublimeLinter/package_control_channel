@@ -609,6 +609,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-lacheck",
+            "details": "https://github.com/thesave/SublimeLinter-contrib-lacheck",
+            "labels": ["linting", "SublimeLinter", "LaTeX"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-lessc",
             "details": "https://github.com/MarkGriffiths/SublimeLinter-contrib-lessc",
             "labels": ["linting", "SublimeLinter", "less"],
