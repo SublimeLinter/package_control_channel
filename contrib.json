@@ -498,6 +498,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-groovyc",
+            "details": "https://github.com/alkuzad/SublimeLinter-contrib-groovyc",
+            "labels": ["linting", "SublimeLinter", "groovy"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-hadolint",
             "details": "https://github.com/niksite/SublimeLinter-contrib-hadolint",
             "labels": ["linting", "SublimeLinter", "docker"],
