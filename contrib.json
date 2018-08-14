@@ -1252,7 +1252,7 @@
         {
             "name": "SublimeLinter-contrib-vcom",
             "details": "https://github.com/jevogel/SublimeLinter-contrib-vcom",
-            "labels": ["linting", "SublimeLinter", "vhdl", "vcom", "modelsim"],
+            "labels": ["linting", "SublimeLinter", "vhdl", "vcom", "verilog", "vlog", "systemverilog", "modelsim", "questasim"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
