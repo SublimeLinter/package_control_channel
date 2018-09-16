@@ -366,6 +366,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-eslint_d-with-lightscript-support",
+            "details": "https://github.com/Darkle/SublimeLinter-contrib-eslint_d-with-lightscript-support",
+            "labels": ["linting", "SublimeLinter", "eslint_d"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-erlc",
             "details": "https://github.com/teh-cmc/SublimeLinter-contrib-erlc",
             "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
