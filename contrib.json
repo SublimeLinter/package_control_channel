@@ -135,6 +135,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-brew",
+            "details": "https://github.com/idleberg/SublimeLinter-contrib-brew",
+            "labels": ["linting", "SublimeLinter", "brew", "homebrew"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-CFLint",
             "details": "https://github.com/ckaznocha/SublimeLinter-contrib-CFLint",
             "labels": ["linting", "SublimeLinter", "CFLint", "Cold Fusion"],
