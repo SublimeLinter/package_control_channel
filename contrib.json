@@ -355,6 +355,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ember-template",
+            "details": "https://github.com/raphaelns-developer/SublimeLinter-contrib-ember-template",
+            "labels": ["linting", "SublimeLinter", "ember", "handlebars"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-epcomp",
             "details": "https://github.com/veelo/SublimeLinter-contrib-epcomp",
             "labels": ["linting", "SublimeLinter", "prospero", "extended", "pascal"],
