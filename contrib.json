@@ -2,6 +2,17 @@
     "schema_version": "3.0.0",
     "packages": [
         {
+            "name": "SublimeLinter-addon-black",
+            "details": "https://github.com/pinle-go/SublimeLinter-contrib-black",
+            "labels": ["SublimeLinter", "python", "formatting"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-addon-black-for-flake",
             "details": "https://github.com/kaste/SublimeLinter-addon-black-for-flake",
             "labels": ["linting", "SublimeLinter", "addon"],
