@@ -1381,6 +1381,17 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-soar",
+            "details": "https://github.com/liipx/SublimeLinter-soar",
+            "labels": ["linting", "SublimeLinter", "sql"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
