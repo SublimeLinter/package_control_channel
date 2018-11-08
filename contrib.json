@@ -799,6 +799,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-modelsim",
+            "details": "https://github.com/jevogel/SublimeLinter-contrib-modelsim",
+            "labels": ["linting", "SublimeLinter", "vhdl", "verilog", "systemverilog", "vcom", "vlog", "modelsim", "questasim"],
+            "previous_names": ["SublimeLinter-contrib-vcom"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-mypy",
             "details": "https://github.com/fredcallaway/SublimeLinter-contrib-mypy",
             "labels": ["linting", "SublimeLinter", "python"],
@@ -1264,17 +1276,6 @@
             "name": "SublimeLinter-contrib-vale",
             "details": "https://github.com/admhlt/SublimeLinter-contrib-vale",
             "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-vcom",
-            "details": "https://github.com/jevogel/SublimeLinter-contrib-vcom",
-            "labels": ["linting", "SublimeLinter", "vhdl", "vcom", "verilog", "vlog", "systemverilog", "modelsim", "questasim"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
