@@ -267,6 +267,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-darglint",
+            "details": "https://github.com/raddessi/SublimeLinter-contrib-darglint",
+            "labels": ["linting", "SublimeLinter", "darglint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dartanalyzer",
             "details": "https://github.com/jedijester/SublimeLinter-contrib-dartanalyzer",
             "labels": ["linting", "SublimeLinter", "dart"],
