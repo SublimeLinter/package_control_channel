@@ -201,6 +201,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-cppcheck-misra",
+            "details": "https://github.com/ChisholmKyle/SublimeLinter-cppcheck-misra",
+            "labels": ["linting", "SublimeLinter", "cppcheck", "misra", "c", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "platforms": ["osx", "linux"],
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-cloudformation",
             "details": "https://github.com/fatbasstard/SublimeLinter-contrib-cloudformation",
             "labels": ["linting", "SublimeLinter", "yaml", "json", "CloudFormation", "Cfn"],
