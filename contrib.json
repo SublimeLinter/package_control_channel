@@ -1262,6 +1262,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-tflint",
+            "details": "https://github.com/mcw0933/SublimeLinter-contrib-tflint",
+            "labels": ["linting", "SublimeLinter", "terraform", "hashicorp", "HCL"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-twiglint",
             "details": "https://github.com/maxgalbu/SublimeLinter-contrib-twiglint",
             "labels": ["linting", "SublimeLinter", "twig"],
