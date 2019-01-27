@@ -564,6 +564,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-healthier",
+            "details": "https://github.com/KidkArolis/SublimeLinter-contrib-healthier",
+            "labels": ["linting", "SublimeLinter", "javascript", "healthier", "prettier", "standard"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-htmllint",
             "details": "https://github.com/necramirez/SublimeLinter-contrib-htmllint",
             "labels": ["linting", "SublimeLinter", "html"],
