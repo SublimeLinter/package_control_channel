@@ -509,6 +509,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-golangcilint",
+            "details": "https://github.com/cixtor/SublimeLinter-golangcilint",
+            "labels": ["linting", "SublimeLinter", "go", "golang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-gosimple",
             "details": "https://github.com/clocklear/SublimeLinter-contrib-gosimple",
             "labels": ["linting", "SublimeLinter", "go"],
