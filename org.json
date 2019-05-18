@@ -529,19 +529,6 @@
                     "tags": true
                 }
             ]
-        },
-        {
-            "name": "SublimeLinter-contrib-Powershell",
-            "details": "https://github.com/EdrisT/SublimeLinter-contrib-Powershell",
-            "previous_names": ["SublimeLinter-contrib-Powershell"],
-            "labels": ["linting", "SublimeLinter", "Powershell", "PS"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true,
-                    "platforms": ["windows"]
-                }
-            ]
         }
     ]
 }
