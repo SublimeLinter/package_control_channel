@@ -967,18 +967,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-pug-lint",
-            "details": "https://github.com/benedfit/SublimeLinter-contrib-pug-lint",
-            "labels": ["linting", "SublimeLinter", "jade"],
-            "previous_names": ["SublimeLinter-contrib-jade-lint"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/dschaaff/SublimeLinter-puppet",
             "labels": ["linting", "SublimeLinter", "puppet"],
