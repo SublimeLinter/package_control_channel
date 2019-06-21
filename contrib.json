@@ -1294,6 +1294,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-tlint",
+            "details": "https://github.com/tightenco/tlint-sublime-plugin",
+            "labels": ["linting", "SublimeLinter", "tlint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-twiglint",
             "details": "https://github.com/maxgalbu/SublimeLinter-contrib-twiglint",
             "labels": ["linting", "SublimeLinter", "twig"],
