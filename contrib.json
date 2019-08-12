@@ -156,6 +156,17 @@
                 }
             ]
         },
+	{
+            "name": "SublimeLinter-contrib-checkmake",
+            "details": "https://github.com/mcw0933/SublimeLinter-contrib-checkmake",
+            "labels": ["linting", "SublimeLinter", "Makefile", "GNU"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-checkpatch",
             "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-checkpatch",
