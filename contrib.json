@@ -1204,6 +1204,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-standardrb",
+            "details": "https://github.com/testdouble/SublimeLinter-contrib-standardrb",
+            "labels": ["linting", "SublimeLinter", "standard", "standardrb", "ruby"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-stylelint_d",
             "details": "https://github.com/jo-sm/SublimeLinter-contrib-stylelint_d",
             "labels": ["linting", "SublimeLinter", "css", "less", "sass"],
