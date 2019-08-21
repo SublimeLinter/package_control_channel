@@ -188,10 +188,33 @@
             ]
         },
         {
+            "name": "SublimeLinter-golangcilint",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-golangcilint",
+            "labels": ["linting", "SublimeLinter", "go", "golang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-golint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-golint",
             "labels": ["linting", "SublimeLinter", "go"],
             "previous_names": ["SublimeLinter-contrib-golint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-gotype",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-gotype",
+            "previous_names": ["SublimeLinter-contrib-gotype"],
+            "labels": ["linting", "SublimeLinter", "go"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -524,29 +547,6 @@
         {
             "details": "https://github.com/SublimeLinter/SublimeLinter-xmllint",
             "labels": ["linting", "SublimeLinter", "xml"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-gotype",
-            "details": "https://github.com/SublimeLinter/SublimeLinter-gotype",
-            "previous_names": ["SublimeLinter-contrib-gotype"],
-            "labels": ["linting", "SublimeLinter", "go"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-golangcilint",
-            "details": "https://github.com/SublimeLinter/SublimeLinter-golangcilint",
-            "labels": ["linting", "SublimeLinter", "go", "golang"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
