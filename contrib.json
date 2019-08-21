@@ -399,17 +399,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-erlc",
-            "details": "https://github.com/teh-cmc/SublimeLinter-contrib-erlc",
-            "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-fasterer",
             "details": "https://github.com/slapvanilla/SublimeLinter-contrib-fasterer",
             "labels": ["linting", "SublimeLinter", "ruby"],

@@ -112,6 +112,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-erlc",
+            "details": "https://github.com/teh-cmc/SublimeLinter-contrib-erlc",
+            "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
+            "previous_names": ["SublimeLinter-contrib-erlc"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-eslint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-eslint",
             "labels": ["linting", "SublimeLinter", "eslint"],
