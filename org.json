@@ -113,7 +113,7 @@
         },
         {
             "name": "SublimeLinter-erlc",
-            "details": "https://github.com/teh-cmc/SublimeLinter-contrib-erlc",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-erlc",
             "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
             "previous_names": ["SublimeLinter-contrib-erlc"],
             "releases": [
