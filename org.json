@@ -112,7 +112,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-erlc",
             "details": "https://github.com/SublimeLinter/SublimeLinter-erlc",
             "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
             "previous_names": ["SublimeLinter-contrib-erlc"],
@@ -124,7 +123,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-eslint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-eslint",
             "labels": ["linting", "SublimeLinter", "eslint"],
             "previous_names": ["SublimeLinter-contrib-eslint"],
@@ -156,7 +154,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-gcc",
             "details": "https://github.com/SublimeLinter/SublimeLinter-gcc",
             "labels": ["linting", "SublimeLinter", "clang", "c++"],
             "previous_names": ["SublimeLinter-contrib-gcc"],
@@ -188,7 +185,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-golangcilint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-golangcilint",
             "labels": ["linting", "SublimeLinter", "go", "golang"],
             "releases": [
@@ -199,7 +195,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-golint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-golint",
             "labels": ["linting", "SublimeLinter", "go"],
             "previous_names": ["SublimeLinter-contrib-golint"],
@@ -211,7 +206,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-gotype",
             "details": "https://github.com/SublimeLinter/SublimeLinter-gotype",
             "previous_names": ["SublimeLinter-contrib-gotype"],
             "labels": ["linting", "SublimeLinter", "go"],
@@ -223,7 +217,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-govet",
             "details": "https://github.com/SublimeLinter/SublimeLinter-govet",
             "labels": ["linting", "SublimeLinter", "go"],
             "previous_names": ["SublimeLinter-contrib-govet"],
@@ -356,10 +349,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-mdl",
-            "previous_names": ["SublimeLinter-contrib-mdl"],
             "details": "https://github.com/SublimeLinter/SublimeLinter-mdl",
             "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
+            "previous_names": ["SublimeLinter-contrib-mdl"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -439,7 +431,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-pug-lint",
             "details": "https://github.com/SublimeLinter/SublimeLinter-pug-lint",
             "labels": ["linting", "SublimeLinter", "jade", "pug"],
             "previous_names": ["SublimeLinter-contrib-jade-lint", "SublimeLinter-contrib-pug-lint"],
@@ -521,10 +512,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-stylelint",
-            "previous_names": ["SublimeLinter-contrib-stylelint"],
             "details": "https://github.com/SublimeLinter/SublimeLinter-stylelint",
             "labels": ["linting", "SublimeLinter", "css", "css3", "less", "sass", "scss"],
+            "previous_names": ["SublimeLinter-contrib-stylelint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -533,10 +523,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-tslint",
-            "previous_names": ["SublimeLinter-contrib-tslint"],
             "details": "https://github.com/SublimeLinter/SublimeLinter-tslint",
             "labels": ["linting", "SublimeLinter", "typescript"],
+            "previous_names": ["SublimeLinter-contrib-tslint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
