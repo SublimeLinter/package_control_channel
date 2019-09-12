@@ -419,17 +419,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-phpins",
-            "details": "https://github.com/ta-tikoma/SublimeLinter-phpins",
-            "labels": ["linting", "SublimeLinter", "php", "phpins"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-phplint",
             "labels": ["linting", "SublimeLinter", "php"],
             "releases": [
