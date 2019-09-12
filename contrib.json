@@ -900,6 +900,17 @@
                 }
             ]
         },
+	{
+            "name": "SublimeLinter-contrib-phpins",
+            "details": "https://github.com/ta-tikoma/SublimeLinter-phpins",
+            "labels": ["linting", "SublimeLinter", "php", "phpins"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-phpstan",
             "details": "https://github.com/Rockstar04/SublimeLinter-contrib-phpstan",
