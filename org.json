@@ -31,6 +31,16 @@
             ]
         },
         {
+            "details": "https://github.com/jpetrucciani/SublimeLinter-archives",
+            "labels": ["linting", "SublimeLinter", "archives", "documentation"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-bandit",
             "labels": ["linting", "SublimeLinter", "python", "security"],
             "releases": [
