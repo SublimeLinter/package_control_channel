@@ -1305,6 +1305,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-terraform",
+            "details": "https://github.com/patrickrgaffney/SublimeLinter-contrib-terraform",
+            "labels": ["linting", "SublimeLinter", "terraform", "hashicorp", "HCL"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-textlint",
             "details": "https://github.com/joeybaker/SublimeLinter-textlint",
             "labels": ["linting", "SublimeLinter", "markdown"],
