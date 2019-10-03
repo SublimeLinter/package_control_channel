@@ -481,6 +481,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-raml-cop",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-raml-cop",
+            "labels": ["linting", "SublimeLinter", "raml"],
+            "previous_names": ["SublimeLinter-contrib-raml-cop"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-rst",
             "labels": ["linting", "SublimeLinter", "restructuredtext", "rst"],
             "releases": [
