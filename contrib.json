@@ -444,7 +444,7 @@
         },
         {
             "name": "SublimeLinter-contrib-ghdl",
-            "details": "https://github.com/BrunoJJE/SublimeLinter-contrib-ghdl",
+            "details": "https://github.com/ringof/SublimeLinter-contrib-ghdl",
             "labels": ["linting", "SublimeLinter", "vhdl"],
             "releases": [
                 {
