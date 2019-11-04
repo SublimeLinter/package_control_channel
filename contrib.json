@@ -1066,6 +1066,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-salt-lint",
+            "details": "https://github.com/Warpnet/SublimeLinter-salt-lint",
+            "author": "Warpnet",
+            "labels": ["linting", "SublimeLinter", "salt-lint", "salt", "saltstack"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-scalac",
             "details": "https://github.com/jawshooah/SublimeLinter-contrib-scalac",
             "author": "Josh Hagins",
