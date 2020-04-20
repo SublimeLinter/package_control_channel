@@ -212,6 +212,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-clj-kondo",
+            "details": "https://github.com/ToxicFrog/SublimeLinter-contrib-clj-kondo",
+            "labels": ["linting", "SublimeLinter", "clojure", "clj"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-cloudformation",
             "details": "https://github.com/fatbasstard/SublimeLinter-contrib-cloudformation",
             "labels": ["linting", "SublimeLinter", "yaml", "json", "CloudFormation", "Cfn"],
