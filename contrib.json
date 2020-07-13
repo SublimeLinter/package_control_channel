@@ -621,7 +621,8 @@
         },
         {
             "name": "SublimeLinter-contrib-iverilog",
-            "details": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog",
+            "details": "https://github.com/jfcherng-sublime/SublimeLinter-contrib-iverilog",
+            "author": ["jfcherng"],
             "labels": ["linting", "SublimeLinter", "verilog"],
             "releases": [
                 {
