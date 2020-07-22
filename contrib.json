@@ -1139,6 +1139,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-selene",
+            "details": "https://github.com/alihsaas/SublimeLinter-contrib-selene",
+            "labels": ["linting","SublimeLinter","lua","roblox"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-semistandard",
             "details": "https://github.com/Flet/SublimeLinter-contrib-semistandard",
             "labels": ["linting", "SublimeLinter", "semistandard", "javascript","semicolon"],
