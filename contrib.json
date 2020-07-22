@@ -509,17 +509,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-selene",
-            "details": "https://github.com/alihsaas/SublimeLinter-contrib-selene",
-            "labels": ["linting","SublimeLinter","lua","roblox"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-gometalinter",
             "details": "https://github.com/alecthomas/SublimeLinter-contrib-gometalinter",
             "labels": ["linting", "SublimeLinter", "go", "golang"],
@@ -1142,6 +1131,17 @@
             "details": "https://github.com/attenzione/SublimeLinter-scss-lint",
             "author": "Sergey Margaritov",
             "labels": ["linting", "SublimeLinter", "scss", "sass"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-selene",
+            "details": "https://github.com/alihsaas/SublimeLinter-contrib-selene",
+            "labels": ["linting","SublimeLinter","lua","roblox"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
