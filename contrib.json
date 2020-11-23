@@ -178,6 +178,17 @@
                 }
             ]
         },
+	{
+            "name": "SublimeLinter-contrib-checkstyle",
+            "details": "https://github.com/LDAP/SublimeLinter-checkstyle",
+            "labels": ["linting", "SublimeLinter", "checkstyle", "java", "codestyle"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-check-source-formatting",
             "details": "https://github.com/drewbrokke/SublimeLinter-contrib-check-source-formatting",
