@@ -257,7 +257,7 @@
         },
         {
             "name": "SublimeLinter-contrib-codeclimate",
-            "details": "https://github.com/codeclimate/SublimeLinter-contrib-codeclimate",
+            "details": "https://github.com/meengit/SublimeLinter-contrib-codeclimate",
             "labels": ["linting", "SublimeLinter", "codeclimate"],
             "releases": [
                 {
