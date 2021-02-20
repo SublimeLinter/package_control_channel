@@ -498,6 +498,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-glslc",
+            "details": "https://github.com/MarioHenze/SublimeLinter-contrib-glslc",
+            "labels": ["linting", "SublimeLinter", "glsl"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-glua",
             "details": "https://github.com/glua/SublimeLinter-contrib-glua",
             "labels": ["linting", "SublimeLinter", "glua", "gmod", "lua"],
