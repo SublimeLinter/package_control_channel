@@ -698,17 +698,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-lessc",
-            "details": "https://github.com/MarkGriffiths/SublimeLinter-contrib-lessc",
-            "labels": ["linting", "SublimeLinter", "less"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-livecodelint",
             "details": "https://github.com/trevordevore/sublimelinter-contrib-livecodelint",
             "labels": ["linting", "SublimeLinter", "livecode"],
