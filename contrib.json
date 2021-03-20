@@ -990,6 +990,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-PSScriptAnalyzer",
+            "details": "https://github.com/spajak/SublimeLinter-contrib-PSScriptAnalyzer",
+            "labels": ["linting", "SublimeLinter", "PowerShell", "PSScriptAnalyzer", "pwsh"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },	    
+        {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/dschaaff/SublimeLinter-puppet",
             "labels": ["linting", "SublimeLinter", "puppet"],
