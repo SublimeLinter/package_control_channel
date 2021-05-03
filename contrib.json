@@ -301,7 +301,7 @@
         },
         {
             "name": "SublimeLinter-contrib-csl",
-            "details": "https://github.com/Marcool04/SublimeLinter-csl",
+            "details": "https://github.com/Marcool04/SublimeLinter-contrib-csl",
             "labels": ["linting", "SublimeLinter", "csl", "Citation style language"],
             "releases": [
                 {
