@@ -300,6 +300,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-csl",
+            "details": "https://github.com/Marcool04/SublimeLinter-csl",
+            "labels": ["linting", "SublimeLinter", "csl", "Citation style language"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-dennis",
             "details": "https://github.com/NotSqrt/SublimeLinter-contrib-dennis",
             "labels": ["linting", "SublimeLinter", "Gettext"],
