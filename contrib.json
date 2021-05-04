@@ -289,9 +289,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-csstree",
-            "details": "https://github.com/csstree/SublimeLinter-contrib-csstree",
-            "labels": ["linting", "SublimeLinter", "css"],
+            "name": "SublimeLinter-contrib-csl",
+            "details": "https://github.com/Marcool04/SublimeLinter-contrib-csl",
+            "labels": ["linting", "SublimeLinter", "csl", "Citation style language"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -300,9 +300,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-csl",
-            "details": "https://github.com/Marcool04/SublimeLinter-contrib-csl",
-            "labels": ["linting", "SublimeLinter", "csl", "Citation style language"],
+            "name": "SublimeLinter-contrib-csstree",
+            "details": "https://github.com/csstree/SublimeLinter-contrib-csstree",
+            "labels": ["linting", "SublimeLinter", "css"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
