@@ -1406,6 +1406,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ts-standard",
+            "details": "https://github.com/sambauers/SublimeLinter-contrib-ts-standard",
+            "labels": ["linting", "SublimeLinter", "standard", "ts-standard", "typescript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-twiglint",
             "details": "https://github.com/maxgalbu/SublimeLinter-contrib-twiglint",
             "labels": ["linting", "SublimeLinter", "twig"],
