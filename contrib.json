@@ -1044,6 +1044,17 @@
                 }
             ]
         },
+	{
+            "name": "SublimeLinter-contrib-radon",
+            "details": "https://github.com/christopherpickering/SublimeLinter-contrib-radon",
+            "labels": ["linting", "SublimeLinter", "python", "radon", "complexity"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-reek",
             "details": "https://github.com/codequest-eu/SublimeLinter-contrib-reek",
