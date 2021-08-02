@@ -332,6 +332,17 @@
               }
           ]
         },
+	{
+            "name": "SublimeLinter-contrib-djlint",
+            "details": "https://github.com/christopherpickering/Sublimelinter-contrib-djlint",
+            "labels": ["linting", "SublimeLinter", "django"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SublimeLinter-contrib-dmd",
             "details": "https://github.com/veelo/SublimeLinter-contrib-dmd",
