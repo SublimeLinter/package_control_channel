@@ -867,6 +867,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-reorder-python-imports",
+            "details": "https://github.com/bladecoates/SublimeLinter-contrib-reorder-python-imports",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-nginx-lint",
             "details": "https://github.com/irvinlim/SublimeLinter-contrib-nginx-lint",
             "labels": ["linting", "SublimeLinter", "config", "nginx"],
