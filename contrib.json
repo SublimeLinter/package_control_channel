@@ -1461,6 +1461,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-vala-lint",
+            "details": "https://github.com/colinkiama/SublimeLinter-contrib-vala-lint",
+            "labels": ["linting", "SublimeLinter", "vala", "gnome"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-verilator",
             "details": "https://github.com/poucotm/SublimeLinter-contrib-verilator",
             "labels": ["linting", "SublimeLinter", "verilog", "systemverilog", "verilator"],
