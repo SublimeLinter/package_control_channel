@@ -676,6 +676,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-jsonschema-lint",
+            "details": "https://github.com/jacksmith15/SublimeLinter-contrib-jsonschema-lint",
+            "labels": ["linting", "SublimeLinter", "jsonschema", "json", "yaml"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-julialint",
             "details": "https://github.com/tomaskrehlik/SublimeLinter-contrib-julialint",
             "labels": ["linting", "SublimeLinter", "julia"],
