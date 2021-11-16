@@ -46,6 +46,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-42-norminette",
+            "details": "https://github.com/baptistejamin/sublime-42-norminette/",
+            "labels": ["linting", "SublimeLinter", "addon", "42", "norminette"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-alex",
             "details": "https://github.com/sindresorhus/SublimeLinter-contrib-alex",
             "labels": ["linting", "SublimeLinter", "markdown", "writing"],
