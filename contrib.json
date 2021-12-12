@@ -855,6 +855,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-luau",
+            "details": "https://github.com/zeux/SublimeLinter-luau",
+            "labels": ["linting","SublimeLinter","lua","roblox"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-makensis",
             "details": "https://github.com/idleberg/SublimeLinter-contrib-makensis",
             "labels": ["linting", "SublimeLinter", "nsis", "makensis"],
