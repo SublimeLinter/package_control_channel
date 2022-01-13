@@ -1625,6 +1625,17 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "SublimeLinter-contrib-ziglint",
+            "details": "https://github.com/squeek502/SublimeLinter-contrib-ziglint",
+            "labels": ["linting", "SublimeLinter", "zig"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
