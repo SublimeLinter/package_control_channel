@@ -1648,5 +1648,17 @@
                 }
             ]
         }
+        {
+            "name": "SublimeLinter-contrib-xsim",
+            "details": "https://github.com/mzh330521/SublimeLinter-contrib-xsim",
+            "author": "Mei Zihao",
+            "labels": ["linting", "SublimeLinter", "verilog", "systemverilog", "vhdl", "xsim", "vivado-simulator"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
     ]
 }
