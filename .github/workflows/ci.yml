@@ -1,0 +1,22 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.10"
+
+      - name: Update pip and install pytest
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest
+
+      - name: Run repository tests
+        run: pytest
