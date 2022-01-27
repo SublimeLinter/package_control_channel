@@ -167,7 +167,18 @@
                 }
             ]
         },
-	{
+        {
+            "name": "SublimeLinter-contrib-check-source-formatting",
+            "details": "https://github.com/drewbrokke/SublimeLinter-contrib-check-source-formatting",
+            "labels": ["linting", "SublimeLinter", "check", "source", "formatting", "html", "javascript", "css"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+    	{
             "name": "SublimeLinter-contrib-checkmake",
             "details": "https://github.com/mcw0933/SublimeLinter-contrib-checkmake",
             "labels": ["linting", "SublimeLinter", "Makefile", "GNU"],
@@ -189,21 +200,10 @@
                 }
             ]
         },
-	{
+    	{
             "name": "SublimeLinter-contrib-checkstyle",
             "details": "https://github.com/LDAP/SublimeLinter-checkstyle",
             "labels": ["linting", "SublimeLinter", "checkstyle", "java", "codestyle"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-check-source-formatting",
-            "details": "https://github.com/drewbrokke/SublimeLinter-contrib-check-source-formatting",
-            "labels": ["linting", "SublimeLinter", "check", "source", "formatting", "html", "javascript", "css"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -687,6 +687,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-java",
+            "details": "https://github.com/reekoheek/SublimeLinter-java",
+            "labels": ["linting", "SublimeLinter", "java"],
+            "previous_names": ["SublimeLinter-java"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-joker",
             "details": "https://github.com/candid82/SublimeLinter-contrib-joker",
             "labels": ["linting", "SublimeLinter", "clojure", "cljs"],
@@ -697,7 +709,42 @@
                 }
             ]
         },
-	{
+        {
+            "name": "SublimeLinter-contrib-jolint",
+            "details": "https://github.com/thesave/SublimeLinter-jolint",
+            "labels": ["linting", "SublimeLinter", "jolie"],
+            "previous_names": ["SublimeLinter-jolint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-jsdebugmarkers",
+            "details": "https://github.com/LeoLeal/SublimeLinter-jsdebugmarkers",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "previous_names": ["SublimeLinter-jsdebugmarkers"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-jslint",
+            "details": "https://github.com/devdoc/SublimeLinter-jslint",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+    	{
             "name": "SublimeLinter-contrib-jsonnet-lint",
             "details": "https://github.com/m-messiah/SublimeLinter-contrib-jsonnet-lint",
             "labels": ["linting", "SublimeLinter", "jsonnet", "libsonnet"],
@@ -753,64 +800,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-livecodelint",
-            "details": "https://github.com/trevordevore/sublimelinter-contrib-livecodelint",
-            "labels": ["linting", "SublimeLinter", "livecode"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-java",
-            "details": "https://github.com/reekoheek/SublimeLinter-java",
-            "labels": ["linting", "SublimeLinter", "java"],
-            "previous_names": ["SublimeLinter-java"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-jolint",
-            "details": "https://github.com/thesave/SublimeLinter-jolint",
-            "labels": ["linting", "SublimeLinter", "jolie"],
-            "previous_names": ["SublimeLinter-jolint"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-jsdebugmarkers",
-            "details": "https://github.com/LeoLeal/SublimeLinter-jsdebugmarkers",
-            "labels": ["linting", "SublimeLinter", "javascript"],
-            "previous_names": ["SublimeLinter-jsdebugmarkers"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-jslint",
-            "details": "https://github.com/devdoc/SublimeLinter-jslint",
-            "labels": ["linting", "SublimeLinter", "javascript"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-lesshint",
             "details": "https://github.com/jasjuang/SublimeLinter-contrib-lesshint",
             "labels": ["linting", "SublimeLinter", "less"],
@@ -825,6 +814,17 @@
             "name": "SublimeLinter-contrib-lintr",
             "details": "https://github.com/jimhester/SublimeLinter-contrib-lintr",
             "labels": ["linting", "SublimeLinter", "R"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeLinter-contrib-livecodelint",
+            "details": "https://github.com/trevordevore/sublimelinter-contrib-livecodelint",
+            "labels": ["linting", "SublimeLinter", "livecode"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -989,7 +989,7 @@
                 }
             ]
         },
-	{
+	    {
             "name": "SublimeLinter-contrib-phpins",
             "details": "https://github.com/ta-tikoma/SublimeLinter-phpins",
             "labels": ["linting", "SublimeLinter", "php", "phpins"],
@@ -1144,6 +1144,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-rstylelint",
+            "details": "https://github.com/mom1/SublimeLinter-contrib-rstylelint",
+            "labels": ["linting", "SublimeLinter", "rsl", "r-style"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-ruby-lint",
             "details": "https://github.com/jawshooah/SublimeLinter-contrib-ruby-lint",
             "labels": ["linting", "SublimeLinter", "ruby", "ruby-lint"],
@@ -1166,9 +1177,10 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-rstylelint",
-            "details": "https://github.com/mom1/SublimeLinter-contrib-rstylelint",
-            "labels": ["linting", "SublimeLinter", "rsl", "r-style"],
+            "name": "SublimeLinter-contrib-salt-lint",
+            "details": "https://github.com/Warpnet/SublimeLinter-salt-lint",
+            "author": "Warpnet",
+            "labels": ["linting", "SublimeLinter", "salt-lint", "salt", "saltstack"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1177,10 +1189,11 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-salt-lint",
-            "details": "https://github.com/Warpnet/SublimeLinter-salt-lint",
-            "author": "Warpnet",
-            "labels": ["linting", "SublimeLinter", "salt-lint", "salt", "saltstack"],
+            "name": "SublimeLinter-contrib-sass-lint",
+            "details": "https://github.com/skovhus/SublimeLinter-contrib-sass-lint",
+            "author": "Kenneth Skovhus",
+            "labels": ["linting", "SublimeLinter", "sass", "scss"],
+            "previous_names": ["SublimeLinter-scss-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1205,19 +1218,6 @@
             "details": "https://github.com/jawshooah/SublimeLinter-contrib-scalastyle",
             "author": "Josh Hagins",
             "labels": ["linting", "SublimeLinter", "scala", "scalastyle"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-sass-lint",
-            "details": "https://github.com/skovhus/SublimeLinter-contrib-sass-lint",
-            "author": "Kenneth Skovhus",
-            "labels": ["linting", "SublimeLinter", "sass", "scss"],
-            "previous_names": ["SublimeLinter-scss-lint"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1505,9 +1505,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-vale",
-            "details": "https://github.com/admhlt/SublimeLinter-contrib-vale",
-            "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
+            "name": "SublimeLinter-contrib-vala-lint",
+            "details": "https://github.com/colinkiama/SublimeLinter-contrib-vala-lint",
+            "labels": ["linting", "SublimeLinter", "vala", "gnome"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1516,9 +1516,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-vala-lint",
-            "details": "https://github.com/colinkiama/SublimeLinter-contrib-vala-lint",
-            "labels": ["linting", "SublimeLinter", "vala", "gnome"],
+            "name": "SublimeLinter-contrib-vale",
+            "details": "https://github.com/admhlt/SublimeLinter-contrib-vale",
+            "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
