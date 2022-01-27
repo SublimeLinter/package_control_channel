@@ -641,8 +641,8 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-htmllint",
-            "details": "https://github.com/necramirez/SublimeLinter-contrib-htmllint",
+            "name": "SublimeLinter-contrib-htmlhint",
+            "details": "https://github.com/mmaday/SublimeLinter-contrib-htmlhint",
             "labels": ["linting", "SublimeLinter", "html"],
             "releases": [
                 {
@@ -652,8 +652,8 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-htmlhint",
-            "details": "https://github.com/mmaday/SublimeLinter-contrib-htmlhint",
+            "name": "SublimeLinter-contrib-htmllint",
+            "details": "https://github.com/necramirez/SublimeLinter-contrib-htmllint",
             "labels": ["linting", "SublimeLinter", "html"],
             "releases": [
                 {
