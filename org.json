@@ -368,27 +368,6 @@
             ]
         },
         {
-            "details": "https://github.com/SublimeLinter/SublimeLinter-pycodestyle",
-            "labels": ["linting", "SublimeLinter", "python", "pep8"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "details": "https://github.com/SublimeLinter/SublimeLinter-pydocstyle",
-            "labels": ["linting", "SublimeLinter", "python", "pep257"],
-            "previous_names": ["SublimeLinter-pep257"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-pep8",
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
@@ -443,6 +422,27 @@
             "details": "https://github.com/SublimeLinter/SublimeLinter-pug-lint",
             "labels": ["linting", "SublimeLinter", "jade", "pug"],
             "previous_names": ["SublimeLinter-contrib-jade-lint", "SublimeLinter-contrib-pug-lint"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pycodestyle",
+            "labels": ["linting", "SublimeLinter", "python", "pep8"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeLinter/SublimeLinter-pydocstyle",
+            "labels": ["linting", "SublimeLinter", "python", "pep257"],
+            "previous_names": ["SublimeLinter-pep257"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
