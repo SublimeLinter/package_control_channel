@@ -1283,6 +1283,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-solhint",
+            "details": "https://github.com/idrabenia/SublimeLinter-contrib-solhint",
+            "labels": ["linting", "SublimeLinter", "solidity", "ethereum"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-SpellCheckLinter",
             "details": "https://github.com/hsghori/SublimeLinter-contrib-SpellCheckLinter",
             "labels": ["linting", "SublimeLinter", "cspell", "spell"],
@@ -1374,17 +1385,6 @@
             "name": "SublimeLinter-contrib-stylint",
             "details": "https://github.com/markalfred/SublimeLinter-contrib-stylint",
             "labels": ["linting", "SublimeLinter", "stylint", "stylus"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-solhint",
-            "details": "https://github.com/idrabenia/SublimeLinter-contrib-solhint",
-            "labels": ["linting", "SublimeLinter", "solidity", "ethereum"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
