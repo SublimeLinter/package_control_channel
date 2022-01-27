@@ -432,9 +432,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-eslint_d",
-            "details": "https://github.com/roadhump/SublimeLinter-contrib-eslint_d",
-            "labels": ["linting", "SublimeLinter", "eslint_d"],
+            "name": "SublimeLinter-contrib-erblint",
+            "details": "https://github.com/TomasBarry/SublimeLinter-contrib-erblint",
+            "labels": ["linting", "SublimeLinter", "erblint", "erb"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -443,9 +443,9 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-erblint",
-            "details": "https://github.com/TomasBarry/SublimeLinter-contrib-erblint",
-            "labels": ["linting", "SublimeLinter", "erblint", "erb"],
+            "name": "SublimeLinter-contrib-eslint_d",
+            "details": "https://github.com/roadhump/SublimeLinter-contrib-eslint_d",
+            "labels": ["linting", "SublimeLinter", "eslint_d"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
