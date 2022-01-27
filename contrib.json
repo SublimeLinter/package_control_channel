@@ -1583,6 +1583,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-xqlint",
+            "details": "https://github.com/jmeischner/SublimeLinter-contrib-xqlint",
+            "labels": ["linting", "SublimeLinter", "xquery"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-xsim",
             "details": "https://github.com/mzh330521/SublimeLinter-contrib-xsim",
             "author": "Mei Zihao",
@@ -1620,17 +1631,6 @@
             "name": "SublimeLinter-contrib-yamllint",
             "details": "https://github.com/thomasmeeus/SublimeLinter-contrib-yamllint",
             "labels": ["linting", "SublimeLinter", "yaml"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "SublimeLinter-contrib-xqlint",
-            "details": "https://github.com/jmeischner/SublimeLinter-contrib-xqlint",
-            "labels": ["linting", "SublimeLinter", "xquery"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
