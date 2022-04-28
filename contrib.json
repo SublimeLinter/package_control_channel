@@ -1473,7 +1473,7 @@
         },
         {
             "name": "SublimeLinter-contrib-tlint",
-            "details": "https://github.com/tightenco/tlint-sublime-plugin",
+            "details": "https://github.com/tighten/tlint-sublime-plugin",
             "labels": ["linting", "SublimeLinter", "tlint"],
             "releases": [
                 {
