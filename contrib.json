@@ -1573,7 +1573,7 @@
         },
         {
             "name": "SublimeLinter-contrib-xo",
-            "details": "https://github.com/sindresorhus/SublimeLinter-contrib-xo",
+            "details": "https://github.com/xojs/SublimeLinter-contrib-xo",
             "labels": ["linting", "SublimeLinter", "javascript", "xo"],
             "releases": [
                 {
