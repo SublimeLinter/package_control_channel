@@ -856,7 +856,7 @@
         },
         {
             "name": "SublimeLinter-contrib-luau",
-            "details": "https://github.com/zeux/SublimeLinter-luau",
+            "details": "https://github.com/luau-lang/SublimeLinter-luau",
             "labels": ["linting","SublimeLinter","lua","roblox"],
             "releases": [
                 {
