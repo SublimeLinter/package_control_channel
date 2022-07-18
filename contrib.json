@@ -1517,7 +1517,7 @@
         },
         {
             "name": "SublimeLinter-contrib-vale",
-            "details": "https://github.com/admhlt/SublimeLinter-contrib-vale",
+            "details": "https://github.com/adamhollett/SublimeLinter-contrib-vale",
             "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
             "releases": [
                 {
