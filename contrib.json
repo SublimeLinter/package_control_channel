@@ -278,6 +278,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-codespell",
+            "details": "https://github.com/kaste/SublimeLinter-contrib-codespell",
+            "labels": ["linting", "SublimeLinter", "codespell"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-cookstyle",
             "details": "https://github.com/jeffbyrnes/SublimeLinter-contrib-cookstyle",
             "labels": ["linting", "SublimeLinter", "chef", "ruby"],
