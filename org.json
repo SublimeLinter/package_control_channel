@@ -368,6 +368,18 @@
             ]
         },
         {
+            "name": "SublimeLinter-mypy",
+            "previous_names": ["SublimeLinter-contrib-mypy"],
+            "details": "https://github.com/SublimeLinter/SublimeLinter-mypy",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-pep8",
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
