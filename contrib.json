@@ -422,7 +422,7 @@
         },
         {
             "name": "SublimeLinter-contrib-ember-template",
-            "details": "https://github.com/raphaelns-developer/SublimeLinter-contrib-ember-template",
+            "details": "https://github.com/kaste/SublimeLinter-contrib-ember-template",
             "labels": ["linting", "SublimeLinter", "ember", "handlebars"],
             "releases": [
                 {
