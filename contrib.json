@@ -1099,7 +1099,7 @@
                 }
             ]
         },
-	{
+        {
             "name": "SublimeLinter-contrib-radon",
             "details": "https://github.com/christopherpickering/SublimeLinter-contrib-radon",
             "labels": ["linting", "SublimeLinter", "python", "radon", "complexity"],
