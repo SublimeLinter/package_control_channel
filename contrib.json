@@ -1100,6 +1100,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-quick-linter-js",
+            "details": "https://github.com/kaste/SublimeLinter-contrib-quick-linter-js",
+            "labels": ["linting", "SublimeLinter", "javascript"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-radon",
             "details": "https://github.com/christopherpickering/SublimeLinter-contrib-radon",
             "labels": ["linting", "SublimeLinter", "python", "radon", "complexity"],
