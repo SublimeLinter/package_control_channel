@@ -4,8 +4,7 @@
         {
             "name": "SublimeLinter",
             "details": "https://github.com/SublimeLinter/SublimeLinter",
-            "homepage": "http://sublimelinter.com",
-            "donate": "https://paypal.me/pools/c/82jmBQtUbY",
+            "donate": "https://paypal.me/herrkaste",
             "labels": ["linting", "SublimeLinter"],
             "previous_names": ["SublimeLinter Beta"],
             "releases": [
