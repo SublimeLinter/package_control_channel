@@ -568,6 +568,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-vale",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-vale",
+            "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-xmllint",
             "labels": ["linting", "SublimeLinter", "xml"],
             "releases": [
