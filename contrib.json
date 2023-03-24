@@ -1144,6 +1144,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-revive",
+            "details": "https://github.com/jsmith0684/SublimeLinter-contrib-revive",
+            "labels": ["linting", "SublimeLinter", "go", "golang"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-roslint",
             "details": "https://github.com/sotilrac/SublimeLinter-roslint",
             "labels": ["linting", "SublimeLinter", "ROS", "roslint", "c++"],
