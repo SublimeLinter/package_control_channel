@@ -223,6 +223,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-clang-format",
+            "details": "https://github.com/harrymander/SublimeLinter-contrib-clang-format",
+            "labels": ["linting", "SublimeLinter", "clang", "c", "c++"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-clang-tidy",
             "details": "https://github.com/rwols/SublimeLinter-contrib-clang-tidy",
             "labels": ["linting", "SublimeLinter", "clang", "c", "c++", "objective-c"],
