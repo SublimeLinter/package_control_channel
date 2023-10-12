@@ -1076,7 +1076,7 @@
                     "tags": true
                 }
             ]
-        },	    
+        },
         {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/dschaaff/SublimeLinter-puppet",
@@ -1683,8 +1683,8 @@
             ]
         },
         {
-            "name": "SublimeLinter-makefile",
-            "details": "https://github.com/giampaolo/SublimeLinter-makefile",
+            "name": "SublimeLinter-contrib-makefile",
+            "details": "https://github.com/giampaolo/SublimeLinter-contrib-makefile",
             "labels": ["linting", "makefile", "make"],
             "releases": [
                 {
