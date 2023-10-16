@@ -888,6 +888,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-makefile",
+            "details": "https://github.com/giampaolo/SublimeLinter-contrib-makefile",
+            "labels": ["linting", "makefile", "make"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-makensis",
             "details": "https://github.com/idleberg/SublimeLinter-contrib-makensis",
             "labels": ["linting", "SublimeLinter", "nsis", "makensis"],
@@ -1076,7 +1087,7 @@
                     "tags": true
                 }
             ]
-        },	    
+        },
         {
             "name": "SublimeLinter-contrib-puppet",
             "details": "https://github.com/dschaaff/SublimeLinter-puppet",
