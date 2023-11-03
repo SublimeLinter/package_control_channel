@@ -29,8 +29,7 @@ import sys
 import subprocess
 import urllib.request
 
-from typing import Callable, Iterator, List, Optional, TypeVar
-from mypy_extensions import TypedDict
+from typing import Callable, Iterator, List, Optional, TypedDict, TypeVar
 
 
 T = TypeVar('T')
@@ -59,11 +58,11 @@ else:
 
 FILES = list(
     map(
-        os.path.abspath,
+        os.path.abspath,  # type: ignore[arg-type]
         [arg for arg in sys.argv if arg.endswith(".json")]
         or ['org.json', 'contrib.json'],
     )
-)
+)  # type: List[str]
 DEST_DIR = os.path.abspath(
     "linter_repos"
     if not len(sys.argv) > 1 or sys.argv[1].endswith(".json")
