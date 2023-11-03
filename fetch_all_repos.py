@@ -171,7 +171,7 @@ packages = [
 ]
 
 
-removed_packages = set(os.listdir(DEST_DIR)) - {
+removed_packages = set(os.listdir(DEST_DIR)) - {'SublimeLinter'} - {
     get_name(package) for package in packages
 }
 for dir in removed_packages:
