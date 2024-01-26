@@ -1210,6 +1210,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-ruff",
+            "details": "https://github.com/kaste/SublimeLinter-contrib-ruff",
+            "labels": ["linting", "SublimeLinter", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-rustc",
             "details": "https://github.com/oschwald/SublimeLinter-contrib-rustc",
             "labels": ["linting", "SublimeLinter", "rust", "rustc"],
