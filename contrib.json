@@ -822,6 +822,16 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-LanguageTool",
+            "details": "https://github.com/GiovanH/sublimelint-contrib-languagetool",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-lesshint",
             "details": "https://github.com/jasjuang/SublimeLinter-contrib-lesshint",
             "labels": ["linting", "SublimeLinter", "less"],
