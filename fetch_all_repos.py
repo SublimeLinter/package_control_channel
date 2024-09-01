@@ -92,7 +92,12 @@ def url_ok(url):
 
 def execute(args: List[str], cwd: Optional[str]) -> str:
     return subprocess.check_output(
-        args, cwd=cwd, startupinfo=STARTUPINFO, universal_newlines=True, encoding='utf-8'
+        args,
+        cwd=cwd,
+        stderr=subprocess.STDOUT,
+        startupinfo=STARTUPINFO,
+        universal_newlines=True,
+        encoding='utf-8',
     )
 
 
@@ -123,8 +128,8 @@ def get_name(package: Package) -> str:
 def pull(dest: str, *, package: Package) -> Result:
     url = package['url']
     cwd = os.path.join(dest, get_name(package))
-    rv = execute(['git', 'pull'], cwd=cwd)
-    print(url, rv.rstrip())
+    rv = execute(['git', 'pull'], cwd=cwd).rstrip()
+    print(url, "  " + rv)
     return {'mode': 'pull', 'url': url, 'success': True}
 
 
