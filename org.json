@@ -28,7 +28,11 @@
             "labels": ["linting", "SublimeLinter"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -38,7 +42,11 @@
             "labels": ["linting", "SublimeLinter", "python", "security"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -48,7 +56,11 @@
             "labels": ["linting", "SublimeLinter", "latex"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -59,7 +71,11 @@
             "previous_names": ["SublimeLinter-contrib-clang"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -69,7 +85,11 @@
             "labels": ["linting", "SublimeLinter", "coffeescript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -79,7 +99,11 @@
             "labels": ["linting", "SublimeLinter", "coffeescript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -89,7 +113,11 @@
             "labels": ["linting", "SublimeLinter", "c++"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -99,7 +127,11 @@
             "labels": ["linting", "SublimeLinter", "c++"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -109,7 +141,11 @@
             "labels": ["linting", "SublimeLinter", "css"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -121,7 +157,11 @@
             "previous_names": ["SublimeLinter-contrib-erlc"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -133,7 +173,11 @@
             "previous_names": ["SublimeLinter-contrib-eslint"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -143,7 +187,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -153,7 +201,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -179,7 +231,11 @@
             "labels": ["linting", "SublimeLinter", "haskell"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -189,7 +245,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -200,7 +260,11 @@
             "labels": ["linting", "SublimeLinter", "go", "golang"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -212,7 +276,11 @@
             "previous_names": ["SublimeLinter-contrib-golint"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -224,7 +292,11 @@
             "labels": ["linting", "SublimeLinter", "go"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -236,7 +308,11 @@
             "previous_names": ["SublimeLinter-contrib-govet"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -246,7 +322,11 @@
             "labels": ["linting", "SublimeLinter", "haml"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -257,7 +337,11 @@
             "previous_names": ["SublimeLinter-contrib-haml-lint"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -267,7 +351,11 @@
             "labels": ["linting", "SublimeLinter", "haskell"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -277,7 +365,11 @@
             "labels": ["linting", "SublimeLinter", "html"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -287,7 +379,11 @@
             "labels": ["linting", "SublimeLinter", "java"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -297,7 +393,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -307,7 +407,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -317,7 +421,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -327,7 +435,11 @@
             "labels": ["linting", "SublimeLinter", "json"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -337,7 +449,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -347,7 +463,11 @@
             "labels": ["linting", "SublimeLinter", "lua"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -357,7 +477,11 @@
             "labels": ["linting", "SublimeLinter", "lua"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -369,7 +493,11 @@
             "labels": ["linting", "SublimeLinter", "mdl", "markdown"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -381,7 +509,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -391,7 +523,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -401,7 +537,11 @@
             "labels": ["linting", "SublimeLinter", "php"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -411,7 +551,11 @@
             "labels": ["linting", "SublimeLinter", "phpcs", "php"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -421,7 +565,11 @@
             "labels": ["linting", "SublimeLinter", "php"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -431,7 +579,11 @@
             "labels": ["linting", "SublimeLinter", "phpmd", "php"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -443,7 +595,11 @@
             "previous_names": ["SublimeLinter-contrib-jade-lint", "SublimeLinter-contrib-pug-lint"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -453,7 +609,11 @@
             "labels": ["linting", "SublimeLinter", "python", "pep8"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -464,7 +624,11 @@
             "previous_names": ["SublimeLinter-pep257"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -474,7 +638,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -484,7 +652,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -494,7 +666,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -506,7 +682,11 @@
             "previous_names": ["SublimeLinter-contrib-raml-cop"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -516,7 +696,11 @@
             "labels": ["linting", "SublimeLinter", "rome"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -526,7 +710,11 @@
             "labels": ["linting", "SublimeLinter", "restructuredtext", "rst"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -536,7 +724,11 @@
             "labels": ["linting", "SublimeLinter", "ruby"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -546,7 +738,11 @@
             "labels": ["linting", "SublimeLinter", "ruby"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -556,7 +752,11 @@
             "labels": ["linting", "SublimeLinter", "bash"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -568,7 +768,11 @@
             "labels": ["linting", "SublimeLinter", "css", "css3", "less", "sass", "scss"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -580,7 +784,11 @@
             "labels": ["linting", "SublimeLinter", "typescript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -591,7 +799,11 @@
             "labels": ["linting", "SublimeLinter", "markdown", "plain text", "prose"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -601,7 +813,11 @@
             "labels": ["linting", "SublimeLinter", "xml"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
