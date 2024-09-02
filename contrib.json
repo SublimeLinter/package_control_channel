@@ -7,7 +7,11 @@
             "labels": ["linting", "SublimeLinter", "addon"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -18,7 +22,11 @@
             "labels": ["linting", "SublimeLinter", "addon"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -29,7 +37,11 @@
             "labels": ["linting", "SublimeLinter", "addon"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -40,7 +52,11 @@
             "labels": ["linting", "SublimeLinter", "addon"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -294,7 +310,11 @@
             "labels": ["linting", "SublimeLinter", "codespell"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -437,7 +457,11 @@
             "labels": ["linting", "SublimeLinter", "ember", "handlebars"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -1141,7 +1165,11 @@
             "labels": ["linting", "SublimeLinter", "javascript"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
@@ -1229,7 +1257,11 @@
             "labels": ["linting", "SublimeLinter", "python"],
             "releases": [
                 {
-                    "sublime_text": ">=3000",
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
                     "tags": true
                 }
             ]
