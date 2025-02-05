@@ -1038,17 +1038,6 @@
                 }
             ]
         },
-        {
-            "name": "SublimeLinter-contrib-php-cs-fixer",
-            "details": "https://github.com/jhoff/SublimeLinter-contrib-php-cs-fixer",
-            "labels": ["linting", "SublimeLinter", "php-cs-fixer"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
 	    {
             "name": "SublimeLinter-contrib-phpins",
             "details": "https://github.com/ta-tikoma/SublimeLinter-phpins",
