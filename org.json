@@ -137,6 +137,22 @@
             ]
         },
         {
+            "name": "SublimeLinter-cspell",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-cspell",
+            "previous_names": ["SublimeLinter-contrib-SpellCheckLinter"],
+            "labels": ["linting", "SublimeLinter", "cspell", "spell"],
+            "releases": [
+                {
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "details": "https://github.com/SublimeLinter/SublimeLinter-csslint",
             "labels": ["linting", "SublimeLinter", "css"],
             "releases": [

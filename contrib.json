@@ -1384,17 +1384,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-SpellCheckLinter",
-            "details": "https://github.com/hsghori/SublimeLinter-contrib-SpellCheckLinter",
-            "labels": ["linting", "SublimeLinter", "cspell", "spell"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-spider",
             "details": "https://github.com/zekesonxx/SublimeLinter-contrib-spider",
             "labels": ["linting", "SublimeLinter", "spider", "javascript"],
