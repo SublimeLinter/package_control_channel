@@ -167,6 +167,22 @@
             ]
         },
         {
+            "name": "SublimeLinter-erblint",
+            "details": "https://github.com/SublimeLinter/SublimeLinter-erblint",
+            "labels": ["linting", "SublimeLinter", "erblint", "erb"],
+            "previous_names": ["SublimeLinter-contrib-erblint"],
+            "releases": [
+                {
+                    "sublime_text": "3000 - 3999",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-erlc",
             "details": "https://github.com/SublimeLinter/SublimeLinter-erlc",
             "labels": ["linting", "SublimeLinter", "erlc", "erlang"],
