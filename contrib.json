@@ -62,6 +62,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-any-lsp",
+            "details": "https://github.com/kaste/SublimeLinter-any-lsp.git",
+            "labels": ["linting", "SublimeLinter", "addon", "lsp"],
+            "releases": [
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-42-norminette",
             "details": "https://github.com/baptistejamin/sublime-42-norminette/",
             "labels": ["linting", "SublimeLinter", "addon", "42", "norminette"],
