@@ -63,7 +63,7 @@
         },
         {
             "name": "SublimeLinter-any-lsp",
-            "details": "https://github.com/kaste/SublimeLinter-any-lsp.git",
+            "details": "https://github.com/kaste/SublimeLinter-any-lsp",
             "labels": ["linting", "SublimeLinter", "addon", "lsp"],
             "releases": [
                 {
