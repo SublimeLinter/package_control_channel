@@ -1477,8 +1477,12 @@
             "labels": ["linting", "SublimeLinter", "syntax", "test"],
             "releases": [
                 {
-                    "sublime_text": ">=3092",
-                    "tags": true
+                    "sublime_text": "3092 - 4180",
+                    "tags": "3092-"
+                },
+                {
+                    "sublime_text": ">=4181",
+                    "tags": "4181-"
                 }
             ]
         },
