@@ -1467,11 +1467,11 @@
             "releases": [
                 {
                     "sublime_text": "3092 - 4180",
-                    "tags": "st3-"
+                    "tags": "3092-"
                 },
                 {
                     "sublime_text": ">=4181",
-                    "tags": true
+                    "tags": "4181-"
                 }
             ]
         },
