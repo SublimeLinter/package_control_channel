@@ -1384,17 +1384,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-sqflint",
-            "details": "https://github.com/LordGolias/SublimeLinter-contrib-sqflint",
-            "labels": ["linting", "SublimeLinter", "sqflint", "sqf", "arma"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-sqlint",
             "details": "https://github.com/trezona-lecomte/SublimeLinter-contrib-sqlint",
             "labels": ["linting", "SublimeLinter", "sqlint", "sql"],
