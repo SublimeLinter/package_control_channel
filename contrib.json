@@ -511,17 +511,6 @@
             ]
         },
         {
-            "name": "SublimeLinter-contrib-fecs",
-            "details": "https://github.com/robbenmu/SublimeLinter-contrib-fecs",
-            "labels": ["linting", "SublimeLinter", "javascript"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeLinter-contrib-flog",
             "details": "https://github.com/icnagy/SublimeLinter-contrib-flog",
             "labels": ["linting", "SublimeLinter", "flog"],
