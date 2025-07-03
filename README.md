@@ -1,6 +1,6 @@
 package_control_channel
 =======================
 
-Private channel for SublimeLinter plugins.
+Private repository for SublimeLinter plugins.
 
-To add your linter to package control, please open a pull request.
+To add your linter to Package Control, please open a pull request.
