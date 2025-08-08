@@ -1,6 +1,6 @@
-package_control_channel
-=======================
+SublimeLinter package registry
+==============================
 
-Private channel for SublimeLinter plugins.
+The public registry for SublimeLinter plugin packages.
 
-To add your linter to package control, please open a pull request.
+To add your linter to Package Control, please open a pull request here.
