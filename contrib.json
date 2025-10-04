@@ -819,7 +819,7 @@
         {
             "name": "SublimeLinter-contrib-lacheck",
             "details": "https://github.com/thesave/SublimeLinter-contrib-lacheck",
-            "labels": ["linting", "SublimeLinter", "LaTeX"],
+            "labels": ["linting", "SublimeLinter", "latex"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
