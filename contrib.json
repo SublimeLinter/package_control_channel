@@ -1052,7 +1052,7 @@
         {
             "name": "SublimeLinter-contrib-Powershell",
             "details": "https://github.com/EdrisT/SublimeLinter-contrib-Powershell",
-            "labels": ["linting", "SublimeLinter", "powershell", "ps"],
+            "labels": ["linting", "SublimeLinter", "powershell", "ps", "pwsh"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1085,7 +1085,7 @@
         {
             "name": "SublimeLinter-contrib-PSScriptAnalyzer",
             "details": "https://github.com/spajak/SublimeLinter-contrib-PSScriptAnalyzer",
-            "labels": ["linting", "SublimeLinter", "powershell", "ps"],
+            "labels": ["linting", "SublimeLinter", "powershell", "ps", "pwsh"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
