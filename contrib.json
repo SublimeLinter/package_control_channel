@@ -153,7 +153,7 @@
         {
             "name": "SublimeLinter-contrib-bootlint",
             "details": "https://github.com/Thomas-Lebeau/SublimeLinter-contrib-bootlint",
-            "labels": ["linting", "SublimeLinter", "bootlint", "Bootstrap"],
+            "labels": ["linting", "SublimeLinter", "bootlint", "bootstrap"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -197,7 +197,7 @@
     	{
             "name": "SublimeLinter-contrib-checkmake",
             "details": "https://github.com/mcw0933/SublimeLinter-contrib-checkmake",
-            "labels": ["linting", "SublimeLinter", "Makefile", "GNU"],
+            "labels": ["linting", "SublimeLinter", "makefile", "gnu"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1052,7 +1052,7 @@
         {
             "name": "SublimeLinter-contrib-Powershell",
             "details": "https://github.com/EdrisT/SublimeLinter-contrib-Powershell",
-            "labels": ["linting", "SublimeLinter", "Powershell", "PS"],
+            "labels": ["linting", "SublimeLinter", "powershell", "ps"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -1085,7 +1085,7 @@
         {
             "name": "SublimeLinter-contrib-PSScriptAnalyzer",
             "details": "https://github.com/spajak/SublimeLinter-contrib-PSScriptAnalyzer",
-            "labels": ["linting", "SublimeLinter", "PowerShell", "PSScriptAnalyzer", "pwsh"],
+            "labels": ["linting", "SublimeLinter", "powershell", "ps"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
