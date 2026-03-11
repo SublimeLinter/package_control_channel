@@ -762,6 +762,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-jsfx-lint",
+            "details": "https://github.com/jamesWalker55/sublime-jsfx-lint",
+            "labels": ["linting", "SublimeLinter", "reaper", "jsfx"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-jslint",
             "details": "https://github.com/devdoc/SublimeLinter-jslint",
             "labels": ["linting", "SublimeLinter", "javascript"],
