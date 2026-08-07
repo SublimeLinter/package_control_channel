@@ -533,6 +533,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-GDScriptFormatterLinter",
+            "details": "https://worktree.ca/taffer/GDScript-formatter-linter",
+            "labels": ["linting", "SublimeLinter", "GDScript"],
+            "releases": [
+                {
+                    "sublime_text": ">=4050",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-ghdl",
             "details": "https://github.com/ringof/SublimeLinter-contrib-ghdl",
             "labels": ["linting", "SublimeLinter", "vhdl"],
