@@ -534,7 +534,7 @@
         },
         {
             "name": "SublimeLinter-contrib-GDScriptFormatterLinter",
-            "details": "https://worktree.ca/taffer/GDScript-formatter-linter",
+            "details": "https://github.com/Taffer/GDScript-formatter-linter",
             "labels": ["linting", "SublimeLinter", "GDScript"],
             "releases": [
                 {
