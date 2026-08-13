@@ -1556,7 +1556,7 @@
         },
         {
             "name": "SublimeLinter-contrib-todo",
-            "details": "https://codeberg.org/Taffer/SublimeLinter-contrib-todo",
+            "details": "https://github.com/Taffer/SublimeLinter-contrib-todo",
             "labels": ["linting", "SublimeLinter", "To-Do"],
             "releases": [
                 {
